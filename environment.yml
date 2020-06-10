@@ -12,4 +12,4 @@ dependencies:
 - pip
 - pip:
   - streamlit
-  - pyzipcode=2.0.0
+  - pyzipcode
