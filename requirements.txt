@@ -1,1 +1,2 @@
 streamlit==0.60
+pyzipcode==2.0.0
