@@ -1,0 +1,1005 @@
+,Surgeons,Hospitals,Problem Rate,Class,Predicted Class,Rating
+1013,Dr. Aron T. Goldberg,Saint Vincent Health Center;,3.7,1,1,3 stars
+726,Dr. William H. Thomas,Carson Tahoe Regional Medical Center;Sierra Surgery Hospital;,4.0,1,2,2 stars
+1181,Dr. Michael P. Macris,Memorial Hermann;Memorial Hermann Memorial City Medical Center;,4.8,1,1,3 stars
+1198,Dr. Kirit N. Patel,Medical Center Hospital;Midland Memorial Hospital;Odessa Regional Medical Center;,4.8,1,1,3 stars
+678,Dr. Joss D. Fernandez,Boone Hospital Center;University of Iowa Hospitals and Clinics;,5.0,1,1,3 stars
+1154,Dr. James Harrell,Covenant Medical Center (Lubbock);,5.2,1,1,3 stars
+64,Dr. Amir Berjis,Mercy Hospitals of Bakersfield;,5.2,1,1,3 stars
+176,Dr. Jonathan D. Blancaflor,Middlesex Hospital;,5.8,1,1,3 stars
+173,Dr. Peter L. Walinsky,Presbyterian Hospital;,5.9,1,1,3 stars
+535,Dr. James Cecil Todd,Peninsula Regional Medical Center;,6.6,1,3,1 star
+529,Dr. Nicholas Lee Ogburn,Peninsula Regional Medical Center;,6.8,1,2,2 stars
+268,Dr. Derek David Muehrcke,Flagler Hospital;,7.3,1,1,3 stars
+409,Dr. Bradford Blakeman,The Community Hospital;Franciscan St. James Health;St. Mary Medical Center (Hobart);St. Catherine Hospital (East Chicago);,8.6,1,1,3 stars
+1304,Dr. Adam J. Hansen,United Hospital Center;,9.0,1,2,2 stars
+172,Dr. Gene Edward Tullis,North Colorado Medical Center;,9.5,1,2,2 stars
+120,Dr. Edward William Pottmeyer,Mercy Medical Center Redding;,9.8,1,1,3 stars
+321,Dr. Robert C. Fritz,Gwinnett Medical Center;,9.8,1,1,3 stars
+1184,Dr. Michael O. Mcbride,Providence Health Center;Baylor Scott and White Medical Center - Hillcrest;,10.2,1,1,3 stars
+606,Dr. Gary R. Goodman,Providence Hospital (Southfield);St. John Hospital and Medical Center;St. John Macomb/Oakland Hospitals;,10.3,1,2,2 stars
+1134,Dr. Lawrence Richard Breitkreutz,Hendrick Medical Center;Abilene Regional Medical Center;East Jefferson General Hospital;,10.4,1,1,3 stars
+637,Dr. Richard G. Smith,Munson Medical Center;,10.5,1,1,3 stars
+122,Dr. Eric Robert Presser,Desert Regional Medical Center;North Shore University Hospital/Syosset Hospital;Eisenhower Medical Center;,10.6,1,1,3 stars
+493,Dr. John Richard Breaux,Louisiana Medical Center and Heart Hospital;Slidell Memorial Hospital;,10.7,1,1,3 stars
+1088,Dr. Richard Miller Briggs,Turkey Creek Medical Center/Physicians Regional Medical Center;Fort Sanders Regional Medical Center;,10.8,1,1,3 stars
+1240,Dr. Paul W. Braunstein,Chesapeake Regional Medical Center;,10.9,1,2,2 stars
+247,Dr. Sohit K. Khanna,Owensboro Health;,11.1,1,1,3 stars
+156,Dr. Jeffrey Schuyler Cross,St. Anthony Hospital (Lakewood);,11.1,1,2,2 stars
+130,Dr. Sachin H. Shah,The Community Hospital;California Pacific Medical Center;,11.1,1,1,3 stars
+296,Dr. Dennis John Stapleton,NCH Hospitals;Gulf Coast Medical Center (Fort Myers);,11.1,1,1,3 stars
+100,Dr. Sang H. Lee,Regional Medical Center of San Jose;O'Connor Hospital;Doctors Medical Center;Washington Hospital;,11.2,1,2,2 stars
+367,Dr. Michael J. Davalle,"Elmhurst Memorial Hospital;Advocate Good Samaritan Hospital;Edward Hospital;Presence Mercy Medical Center;Presence Resurrection Medical Center;AMITA Adventist Medical Center, La Grange;",11.2,1,1,3 stars
+1234,Dr. Shreekanth V. Karwande,St. Mark's Hospital;Timpanogos Regional Hospital;,11.2,1,1,3 stars
+436,Dr. Joseph A. Morris,St. Luke's Regional Medical Center;Mercy Medical Center - Sioux City;,11.4,1,2,2 stars
+921,Dr. Farzin Fotouhi,St. Rita's Medical Center;Lima Memorial Health System;,11.5,1,1,3 stars
+591,Dr. Douglas Rawling Baldwin,UP Health System Marquette;,11.7,1,1,3 stars
+872,Dr. Edward Burton Gerhardt,Cone Health;High Point Regional Health System;,11.9,1,1,3 stars
+1272,Dr. Juan A. Cordero,Kadlec Regional Medical Center;,11.9,1,2,2 stars
+882,Dr. Mark Henry Hennington,Frye Regional Medical Center;,12.1,1,1,3 stars
+1288,Dr. Dennis Darrel Nichols,Allenmore Hospital/Tacoma General Hospital;,12.3,1,2,2 stars
+158,Dr. Justin Green,Rapid City Regional Hospital;,12.5,1,1,3 stars
+282,Dr. David Lester Saint,Tallahassee Memorial HealthCare;South Georgia Medical Center;,12.5,1,1,3 stars
+114,Dr. Michael Stephen O'Holleran,Sequoia Hospital;,12.6,1,1,3 stars
+1286,Dr. Daniel Elroy Mumme,Allenmore Hospital/Tacoma General Hospital;,12.7,1,1,3 stars
+334,Dr. Theresa D. Luu,Athens Regional Medical Center;WellStar Kennestone Hospital;,12.8,1,1,3 stars
+584,Dr. Richard Ian Whyte,Stanford University Hospital;Beth Israel Deaconess Medical Center;,12.9,1,2,2 stars
+1103,Dr. Michael L. Maggart,Turkey Creek Medical Center/Physicians Regional Medical Center;Parkwest Medical Center;Fort Sanders Regional Medical Center;Methodist Medical Center of Oak Ridge;,12.9,1,2,2 stars
+364,Dr. Ronald M. Cossman,Presence Covenant Medical Center;Mercy Hospital St. Louis;,13.1,1,1,3 stars
+1243,Dr. Paul Lawson Evans,Riverside Regional Medical Center;,13.1,1,1,3 stars
+1156,Dr. Richard Earle Helmer,Providence Health Center;Baylor Scott and White Medical Center - Hillcrest;,13.4,1,1,3 stars
+1180,Dr. Carlos L. Macias,Texas Health Harris Methodist Hospital Fort Worth;Plaza Medical Center of Fort Worth;Texas Health Huguley Hospital;Baylor Medical Center Fort Worth;,13.5,1,3,1 star
+883,Dr. Harold Ragan Howe,Novant Health Presbyterian Medical Center;,13.6,1,1,3 stars
+1178,Dr. Timothy Stuart Lyda,Baptist Health System;Methodist Hospital (San Antonio);CHRISTUS Santa Rosa Hospital;,13.7,1,1,3 stars
+47,Dr. John Max Deloach,Baptist Health Medical Center North Little Rock;,13.8,1,1,3 stars
+585,Dr. Christina Williamson,Lahey Hospital and Medical Center;,13.8,1,2,2 stars
+707,Dr. Roch R. Boyer,Kalispell Regional Medical Center;,13.9,1,1,3 stars
+840,Dr. Frank M. Rosell,Staten Island University Hospital;,14.0,1,1,3 stars
+489,Dr. Keung Ung,Baptist Health Paducah;,14.1,1,2,2 stars
+315,Dr. Henry Belk Brooks,St. Francis Hospital (Columbus);,14.2,1,1,3 stars
+1106,Dr. Jonathan Carl Nesbitt,Vanderbilt University Medical Center;,14.2,1,2,2 stars
+402,Dr. John Ward Watson,Memorial Hospital of Carbondale;SMS Health Good Samaritan - Mount Vernon;,14.3,1,1,3 stars
+1005,Dr. Jonathan Dcunha,"UPMC Braddock/Montegiore,Presbyterian/Shadyside;University of Minnesota Medical Center, Fairview;",14.4,1,1,3 stars
+595,Dr. James Peter Caralis,St. Joseph Mercy Oakland;St. Mary's of Michigan - Saginaw;,14.4,1,1,3 stars
+82,Dr. Robert John Gottner,Providence Saint Joseph Medical Center;Methodist Hospital of Southern California;Citrus Valley Medical Center;Good Samaritan Hospital (Los Angeles);,14.7,1,1,3 stars
+9,Dr. Steven F. Johnson,Southeast Alabama Medical Center;Flowers Hospital;,14.8,1,1,3 stars
+521,Dr. Robert Gordon,Carroll Hospital Center;Howard County General Hospital;,14.9,1,1,3 stars
+1270,Dr. Ralph Williams Aye,Swedish/First Hill;,14.9,1,1,3 stars
+455,Dr. James Edwin Miller,Olathe Medical Center;,15.0,1,1,3 stars
+1172,Dr. Clifford Mark Kitten,North Cypress Medical Center;Tomball Regional Medical Center;Houston Northwest Medical Center;Memorial Hermann;Houston Methodist Willowbrook Hospital;St. Luke's The Woodlands Hospital;,15.0,1,1,3 stars
+106,Dr. John P. Maurice,Hoag Memorial Hospital Presbyterian;St. Joseph Hospital (Orange);,15.0,1,1,3 stars
+1016,Dr. Joseph H. Houda,Miami Valley Hospital;,15.1,1,1,3 stars
+281,Dr. Lary Robinson,H. Lee Moffitt Cancer Center and Research Institute;,15.1,1,1,3 stars
+648,Dr. Mary J. Boylan,St. Luke's Hospital (Duluth);,15.1,1,1,3 stars
+1320,Dr. John A. Johnkoski,Aspirus Wausau Hospital;,15.1,1,1,3 stars
+859,Dr. Oliver Ar Binns,Mission St. Joseph's Health System;,15.1,1,1,3 stars
+263,Dr. Cary H. Meyers,Holston Valley Medical Center;,15.3,1,1,3 stars
+452,Dr. Clarke Latta Henry,Shawnee Mission Medical Center;,15.3,1,1,3 stars
+25,Dr. Hao Fang,Banner University Medical Center Phoenix;Flagstaff Medical Center;John C. Lincoln Deer Valley Hospital;Banner Estrella Medical Center;,15.3,1,1,3 stars
+426,Dr. Alan C. Peterson,Lutheran Hospital of Indiana;,15.3,1,1,3 stars
+563,Dr. Virginia R. Litle,Strong Memorial Hospital of the University of Rochester;Boston Medical Center;,15.3,1,1,3 stars
+735,Dr. Benjamin Westbrook,Catholic Medical Center;,15.4,1,1,3 stars
+1321,Dr. David W. Johnstone,Dartmouth-Hitchcock Medical Center;Froedtert Hospital;Community Memorial Hospital (Menomonee);,15.5,1,2,2 stars
+80,Dr. Lit Keung Fung,Memorial Medical Center (Modesto);,15.6,1,1,3 stars
+61,Dr. Leheb H. Araim,Kaweah Delta Hospital;,15.6,1,1,3 stars
+657,Dr. Mark L. Solfelt,Fairview Southdale Hospital;North Memorial Medical Center;Mercy Hospital (Coon Rapids);,15.6,1,1,3 stars
+713,Dr. Brett Alan Williams,Benefis Healthcare - East Campus;,15.6,1,1,3 stars
+1337,Dr. John L. Waciuma,HSHS Sacred Heart Hospital;,15.7,1,1,3 stars
+290,Dr. Gregory Thomas Simmons,Holmes Regional Medical Center;Orlando Regional Medical Centers;,15.7,1,1,3 stars
+716,Dr. R. Kent Jex,Nebraska Heart Institute Heart Hospital;CHI Health St. Elizabeth;,15.7,1,1,3 stars
+560,Dr. Michael Lanuti,Massachusetts General Hospital;Newton-Wellesley Hospital;,15.8,1,1,3 stars
+443,Dr. Kent C. Thieman,Iowa Methodist Medical Center;Iowa Lutheran Hospital;,15.8,1,2,2 stars
+150,Dr. Joseph W. Wilson,Eisenhower Medical Center;,15.8,1,2,2 stars
+85,Dr. Howard H. Hayashi,Sierra Vista Regional Medical Center;French Hospital Medical Center;Arroyo Grande Community Hospital;Marian Medical Center;Twin Cities Community Hospital;,15.9,1,1,3 stars
+13,Dr. Barry Douglas Newsom,DCH Regional/Northport Medical Center;,16.2,1,3,1 star
+887,Dr. Andy Christopher Kiser,University of North Carolina Hospital;FirstHealth Hospitals;Rex Hospital;,16.3,1,1,3 stars
+1159,Dr. Eric M. Hoenicke,St. David's South Austin Medical Center;St. David's Medical Center;Seton Medical Center Austin;Seton Medical Center Hays;,16.3,1,3,1 star
+919,Dr. Steven Barron Duff,Riverside Methodist Hospital;,16.4,1,1,3 stars
+1209,Dr. Jack A. Roth,The University of Texas M. D. Anderson Cancer Center;,16.4,1,1,3 stars
+520,Dr. Ziv Gamliel,University of Maryland St. Joseph Medical Center;,16.4,1,1,3 stars
+837,Dr. Herbert Reich,Ellis Hospital;,16.5,1,1,3 stars
+1232,Dr. Michael Patrick Collins,Intermountain Medical Center;,16.5,1,1,3 stars
+1266,Dr. Steven Sorrells Scott,Riverside Regional Medical Center;,16.6,1,1,3 stars
+307,Dr. Paul Anthony Vesco,Sarasota Memorial Hospital;The James Cancer Hospital and Solove Research Institute;The Ohio State University Hospital;,16.6,1,1,3 stars
+1203,Dr. Philip A. Rascoe,Scott and White Hospital - Temple;,16.6,1,1,3 stars
+1289,Dr. Steven J. Nisco,Providence Sacred Heart Medical Center;Deaconess Medical Center;Kootenai Medical Center;,16.6,1,1,3 stars
+1111,Dr. William Howard Polk,TriStar Centennial Medical Center;Saint Thomas Midtown Hospital;,16.6,1,1,3 stars
+398,Dr. William S. Stevens,HSHS St. John's Hospital;Memorial Medical Center (Springfield);,16.6,1,1,3 stars
+532,Dr. Mark Steven Soberman,MedStar Washington Hospital Center;Frederick Memorial Hospital;,16.7,1,3,1 star
+727,Dr. Peter George Vajtai,MountainView Hospital;Sunrise Hospital and Medical Center;Southern Hills Hospital and Medical Center;,16.7,1,1,3 stars
+573,Dr. Michael A. O'Shea,St. Vincent Hospital (Worcester);,16.7,1,1,3 stars
+305,Dr. Robert Bryce Turnage,Anderson Regional Medical Center;,16.7,1,2,2 stars
+952,Dr. Thomas G. Santoscoy,Hillcrest Hospital;Lake Health Medical Center;,16.7,1,1,3 stars
+914,Dr. Mark Judson Botham,Hillcrest Hospital;Lake Health Medical Center;,16.9,1,1,3 stars
+360,Dr. David G. Cable,OSF St. Anthony Medical Center;,17.0,1,1,3 stars
+332,Dr. William R. Kitchens,University Hospital (Augusta);,17.1,1,1,3 stars
+622,Dr. Won Kyu Lee,Providence Hospital (Southfield);St. John Macomb/Oakland Hospitals;St. John Hospital and Medical Center;,17.1,1,1,3 stars
+252,Dr. Kenneth Adam Lee,Jupiter Medical Center;Kennedy University Hospital;,17.1,1,1,3 stars
+881,Dr. Steven C. Hendrickson,Cone Health;High Point Regional Health System;,17.1,1,2,2 stars
+628,Dr. Kristijan Minanov,McLaren Macomb;,17.2,1,3,1 star
+554,Dr. Sidharta P. Gangadharan,Beth Israel Deaconess Medical Center;,17.2,1,1,3 stars
+1023,Dr. Ryan Matthew Levy,"UPMC Braddock/Montegiore,Presbyterian/Shadyside;UPMC Passavant;",17.3,1,2,2 stars
+340,Dr. Charles Patrick Murrah,Tallahassee Memorial HealthCare;Athens Regional Medical Center;South Georgia Medical Center;Capital Regional Medical Center;,17.3,1,2,2 stars
+791,Dr. Bernard K. Crawford,NYU Langone Medical Center;,17.3,1,2,2 stars
+86,Dr. James Robert Hemp,Scripps Mercy Hospital;Scripps Green Hospital;,17.3,1,1,3 stars
+558,Dr. Michael T. Jaklitsch,Brigham and Women's Hospital;South Shore Hospital;,17.3,1,1,3 stars
+154,Dr. Douglas Richard Zusman,Hoag Memorial Hospital Presbyterian;,17.3,1,1,3 stars
+760,Dr. Nabil P. Rizk,Memorial Sloan-Kettering Cancer Center;,17.4,1,1,3 stars
+375,Dr. Thomas J. Hinkamp,Centegra Hospital - McHenry;Presence Resurrection Medical Center;Trinity Medical Center (Moline);Advocate Good Samaritan Hospital;Elmhurst Memorial Hospital;Presence Mercy Medical Center;Edward Hospital;,17.4,1,1,3 stars
+1332,Dr. Alexander Roitstein,Aurora BayCare Medical Center;,17.4,1,3,1 star
+519,Dr. Philip Charles Corcoran,Suburban Hospital;,17.5,2,2,2 stars
+70,Dr. Larry J. Cardoza,Sutter Roseville Medical Center;Mercy San Juan Medical Center;,17.5,2,2,2 stars
+24,Dr. Patrick A. De Valeria,Mayo Clinic Hospital;,17.5,2,2,2 stars
+1212,Dr. Larry Wayne Schorn,Baylor Scott and White Medical Center - Irving;Baylor Regional Medical Center at Grapevine;,17.5,2,2,2 stars
+498,Dr. Brian L. Dockendorf,CHRISTUS Schumpert;Willis-Knighton Medical Center;,17.5,2,2,2 stars
+275,Dr. Robert D. Pascotto,NCH Hospitals;Gulf Coast Medical Center (Fort Myers);Lee Memorial Hospital;,17.5,2,2,2 stars
+896,Dr. Eric R. Skipper,Carolinas Medical Center;Carolinas Medical Center;,17.5,2,2,2 stars
+145,Dr. John Jeffrey Tyner,Scripps Green Hospital;Scripps Mercy Hospital;,17.5,2,2,2 stars
+605,Dr. Divyakant B. Gandhi,McLaren Greater Lansing;Sanford USD Medical Center;,17.5,2,2,2 stars
+1026,Dr. Richard Hardy Maley,St. Clair Hospital;Allegheny General Hospital;,17.6,2,2,2 stars
+397,Dr. Cynthia N. Steimle,Advocate Sherman Hospital;Presence St. Joseph Hospital (Elgin);Delnor Hospital;Central DuPage Hospital;,17.6,2,2,2 stars
+433,Dr. Lee S. Wagmeister,The Heart Hospital at Deaconess Gateway;Deaconess Hospital (Newburgh);St. Mary's Medical Center (Evansville);,17.6,2,2,2 stars
+620,Dr. Adam Halladay Lackey,Beaumont Hospital Royal Oak;Beaumont Hospital Troy;,17.7,2,2,2 stars
+833,Dr. Anthony L. Picone,Kaleida Health;Roswell Park Cancer Institute;Erie County Medical Center;,17.7,2,2,2 stars
+1317,Dr. Steven J. Gerndt,Bellin Memorial Hospital;,17.7,2,2,2 stars
+31,Dr. Samuel Suk Kim,Banner-University Medical Center;,17.7,2,2,2 stars
+259,Dr. Mark A. Malias,Indian River Medical Center;,17.7,2,2,2 stars
+843,Dr. Scott Leslie Schubach,Winthrop University Hospital;,17.7,2,2,2 stars
+317,Dr. Philip William Catalano,Doctors Hospital of Augusta;Augusta University Medical Center;University Hospital (Augusta);,17.7,2,2,2 stars
+514,Dr. Richard J. Battafarano,University of Maryland Medical Center;The Johns Hopkins Hospital;,17.8,2,3,1 star
+1160,Dr. H. Stephen Hudgens,Texas Health Harris Methodist Hospital Fort Worth;,17.8,2,2,2 stars
+734,Dr. George Darby Pope,Concord Hospital;,17.8,2,2,2 stars
+224,Dr. Irving B. David,Holy Cross Hospital (Fort Lauderdale);,17.8,2,1,3 stars
+3,Dr. Evan Scott Cohen,Huntsville Hospital;,17.9,2,2,2 stars
+1192,Dr. Dennis David O'Banion,CHRISTUS St. Michael Health System;,18.0,2,3,1 star
+822,Dr. Karen M. Mcginnis,Mary Imogene Bassett Hospital;,18.0,2,2,2 stars
+1223,Dr. Ara A. Vaporciyan,The University of Texas M. D. Anderson Cancer Center;,18.1,2,2,2 stars
+147,Dr. Quang T. Vo,Fountain Valley Regional Hospital;Garfield Medical Center;Citrus Valley Medical Center;Long Beach Memorial Medical Center;Orange Coast Memorial Medical Center;Saddleback Memorial Medical Center;,18.2,2,2,2 stars
+33,Dr. Louis Angel Lanza,Mayo Clinic Hospital;,18.3,2,2,2 stars
+674,Dr. Cordie C. Coordes,St. Luke's Hospital (Chesterfield);St. Anthony's Medical Center;,18.4,2,2,2 stars
+780,Dr. Thomas Victor Bilfinger,Stony Brook University Medical Center;,18.4,2,2,2 stars
+454,Dr. David W. Lutes,Stormont-Vail Regional Health Center;,18.4,2,2,2 stars
+277,Dr. John Peter Pirris,Memorial Hospital Jacksonville;St. Vincent's Medical Center Riverside;Baptist Medical Center;Flagler Hospital;Orange Park Medical Center;,18.4,2,2,2 stars
+388,Dr. Francis J. Podbielski,Beth Israel Deaconess Hospital Plymouth;UMass Memorial Medical Center;Mercy Medical Center (Springfield);,18.5,2,2,2 stars
+642,Dr. John D. Talbott,McLaren Northern Michigan;Sparrow Hospital;,18.5,2,1,3 stars
+11,Dr. Stanley K. Lochridge,St. Vincent's East;,18.5,2,2,2 stars
+917,Dr. Donald G. Crescenzo,The Toledo Hospital;St. Luke's Hospital (Maumee);,18.6,2,2,2 stars
+699,Dr. Frederic Lee Seligson,Research Medical Center;Menorah Medical Center;St. Joseph Medical Center (Kansas City);,18.6,2,3,1 star
+435,Dr. James Michael Levett,St. Luke's Hospital (Cedar Rapids);Mercy Medical Center - Cedar Rapids;Mercy Hospital of Iowa City;,18.7,2,2,2 stars
+125,Dr. Randall F. Roberts,Glendale Memorial Hospital;Glendale Adventist Medical Center;City of Hope;,18.7,2,2,2 stars
+486,Dr. Michael E. Sekela,Saint Joseph Hospital (Lexington);UK HealthCare;,18.7,2,2,2 stars
+586,Dr. Cameron Dorrans Wright,Massachusetts General Hospital;St. Elizabeth's Medical Center (Boston);,18.7,2,2,2 stars
+528,Dr. Mark G. Nelson,Western Maryland Regional Medical Center;,18.7,2,3,1 star
+1188,Dr. Christian Lee Moncrief,Texas Health Presbyterian Hospital of Plano;The Heart Hospital at Baylor Plano;,18.7,2,1,3 stars
+165,Dr. Richard Keith Parker,Presbyterian/St. Luke's Medical Center;Rose Medical Center;The Medical Center of Aurora;,18.7,2,2,2 stars
+1162,Dr. Connie C. Hutton,Conroe Regional Medical Center;,18.7,2,1,3 stars
+768,Dr. Lewis Wetstein,Community Medical Center (Toms River);,18.7,2,1,3 stars
+629,Dr. Oktavijan Paul Minanov,St. John Hospital and Medical Center;McLaren Macomb;St. John Macomb/Oakland Hospitals;Beaumont Hospital Grosse Pointe;,18.8,2,1,3 stars
+650,Dr. Matthew Jason Graczyk,Abbott Northwestern Hospital;,18.8,2,2,2 stars
+1116,Dr. Samuel Gwin Robbins,Methodist Healthcare;Saint Francis Hospital (Memphis);Baptist Memorial Hospital;,18.8,2,2,2 stars
+1168,Dr. Kemp H. Kernstine,UT Southwestern University Hospital St. Paul;,18.8,2,2,2 stars
+1087,Dr. Tammy Michelle Baxter,University of Miami Hospital;TriStar Centennial Medical Center;,18.8,2,2,2 stars
+67,Dr. Kent A. Brusett,Shasta Regional Medical Center;Mercy Medical Center Redding;,18.9,2,2,2 stars
+215,Dr. Anthony Vincent Caggiano,UF Health Shands Hospital;Winchester Medical Center;Centra Lynchburg General/Centra Virginia Baptist;Piedmont Medical Center;,19.0,2,1,3 stars
+475,Dr. James P. Locher,UnityPoint Health - Methodist;OSF St. Anthony Medical Center;,19.0,2,3,1 star
+1278,Dr. Michal Hubka,Virginia Mason Hospital and Medical Center;,19.0,2,2,2 stars
+1072,Dr. Tuan Nmn Nguyenduy,Spartanburg Regional Medical Center;,19.0,2,2,2 stars
+1202,Dr. Mohinder Paul S. Randhawa,Saint Joseph Hospital (Lexington);Texoma Medical Center;,19.0,2,2,2 stars
+708,Dr. John A. Federico,Yale-New Haven Hospital Saint Raphael Campus;Yale-New Haven Hospital;,19.1,2,2,2 stars
+1276,Dr. Allen Henry Graeve,Allenmore Hospital/Tacoma General Hospital;,19.1,2,2,2 stars
+776,Dr. Matthew Dominic Bacchetta,NewYork-Presbyterian;,19.1,2,2,2 stars
+815,Dr. William Kokotos,Winthrop University Hospital;,19.1,2,2,2 stars
+458,Dr. Peter J. Tutuska,Stormont-Vail Regional Health Center;,19.2,2,2,2 stars
+1001,Dr. Joel D. Cooper,Hospital of the University of Pennsylvania;,19.2,2,2,2 stars
+1241,Dr. Peter Daniel Buckman,Henrico Doctors' Hospital/Parham Doctors' Hospital;Bon Secours St. Mary's Hospital;,19.2,2,2,2 stars
+1265,Dr. Kenneth E. Saum,Memorial Hospital of Carbondale;Winchester Medical Center;Centra Lynchburg General/Centra Virginia Baptist;,19.2,2,2,2 stars
+119,Dr. Anthony Perricone,UCSD Medical Center;,19.2,2,2,2 stars
+898,Dr. Betty Caroline Tong,Duke University Hospital;,19.3,2,2,2 stars
+746,Dr. John A. Heim,University Medical Center of Princeton at Plainsboro;,19.3,2,2,2 stars
+1144,Dr. William Michael Davis,Methodist Hospital (San Antonio);CHRISTUS Santa Rosa Hospital;Baptist Health System;,19.3,2,2,2 stars
+613,Dr. Robert J. Holmes,McLaren Bay Region;,19.3,2,2,2 stars
+526,Dr. Barry Jay Levin,Shady Grove Adventist Hospital;Suburban Hospital;Holy Cross Hospital (Silver Spring);,19.4,2,2,2 stars
+600,Dr. Vernon Everett Dencklau,McLaren Port Huron;Lake Huron Medical Center;,19.4,2,2,2 stars
+365,Dr. Ronald D. Curran,Swedish Covenant Hospital;,19.4,2,2,2 stars
+1003,Dr. Scott W. Cowan,Thomas Jefferson University Hospital/Methodist Hospital;Penn Presbyterian Medical Center;,19.4,2,2,2 stars
+457,Dr. Prem Kumar Samuel,Lee's Summit Medical Center;Menorah Medical Center;Centerpoint Medical Center;Overland Park Regional Medical Center;St. Joseph Medical Center (Kansas City);,19.4,2,2,2 stars
+372,Dr. John Gregory Grieco,Advocate Good Samaritan Hospital;Trinity Medical Center (Moline);Edward Hospital;Presence St. Joseph Medical Center;,19.4,2,2,2 stars
+555,Dr. Rose B. Ganim,Baystate Medical Center;,19.4,2,2,2 stars
+1040,Dr. Lana Yvonne Schumacher,Allegheny General Hospital;Excela Westmoreland Hospital;Forbes Hospital;,19.4,2,2,2 stars
+54,Dr. Daniel Richard Stevenson,St. Bernards Medical Center;,19.5,2,2,2 stars
+144,Dr. Pei H. Tsau,El Camino Hospital;Dominican Hospital;Northwest Medical Center (Tucson);Mills-Peninsula Medical Center;St. Mary's Hospital (Tucson);,19.5,2,2,2 stars
+23,Dr. Peter Cheung,Yuma Regional Medical Center;,19.5,2,3,1 star
+976,Dr. Aaron L. Trachte,Comanche County Memorial Hospital;,19.6,2,2,2 stars
+117,Dr. Brian Avecilla Palafox,St. Joseph Hospital (Orange);,19.7,2,2,2 stars
+77,Dr. Costanzo Aldo Diperna,Mercy San Juan Medical Center;,19.7,2,2,2 stars
+745,Dr. Mark Howard Forman,Saint Barnabas Medical Center;,19.7,2,1,3 stars
+284,Dr. Eric L. Sandwith,Fort Walton Beach Medical Center;,19.7,2,2,2 stars
+92,Dr. Samer Kanaan,Santa Rosa Memorial Hospital;Queen of the Valley Medical Center;,19.8,2,2,2 stars
+39,Dr. Iva A. Smolens,Banner Heart Hospital;Banner Desert Medical Center;Chandler Regional Medical Center;Mountain Vista Medical Center;,19.8,2,2,2 stars
+625,Dr. Curtis Charles Marder,UP Health System Marquette;,19.8,2,2,2 stars
+655,Dr. John Gregory Shearen,St. Joseph's Hospital (St Paul);United Hospital (St Paul);Woodwinds Health Campus;St. John's Hospital;,19.8,2,2,2 stars
+548,Dr. Dean Michael Donahue,Massachusetts General Hospital;North Shore Medical Center (Salem);,19.9,2,2,2 stars
+515,Dr. Whitney Burrows,University of Maryland Medical Center;,20.0,2,2,2 stars
+149,Dr. Phillip N. West,Santa Barbara Cottage Hospital;,20.0,2,2,2 stars
+1126,Dr. Duane N. Andrews,Mother Frances Hospital;East Texas Medical Center Tyler;,20.0,2,2,2 stars
+1183,Dr. David Park Mason,Cleveland Clinic;,20.0,2,2,2 stars
+1069,Dr. Alex Brian McIntyre,Grand Strand Medical Center;,20.1,2,2,2 stars
+198,Dr. Brian T. Nam,Christiana Hospital/Wilmington Hospital;,20.1,2,2,2 stars
+427,Dr. Karen Rieger,IU Health University Hospital;,20.1,2,2,2 stars
+889,Dr. John Frederick Krahnert,FirstHealth Hospitals;,20.1,2,2,2 stars
+1012,Dr. Michael Edward Friscia,Geisinger Medical Center;,20.1,2,2,2 stars
+159,Dr. Myles Stuart Guber,Porter Adventist Hospital;Swedish Medical Center;Boulder Community Foothills Hospital;,20.1,2,2,2 stars
+772,Dr. Jess Schwartz,University of New Mexico Hospital;,20.2,2,2,2 stars
+30,Dr. Dawn E. Jaroszewski,Mayo Clinic Hospital;,20.2,2,2,2 stars
+40,Dr. Darryl G. Stein,Banner Heart Hospital;Banner Desert Medical Center;Chandler Regional Medical Center;Flagstaff Medical Center;,20.2,2,2,2 stars
+1221,Dr. Sergio Tavares,Corpus Christi Medical Center (Corpus Christi);CHRISTUS Spohn Hospital;,20.2,2,2,2 stars
+1280,Dr. Richard Joseph Leone,PeaceHealth St. Joseph Medical Center;,20.2,2,2,2 stars
+1196,Dr. Carmelo Otero,Methodist Hospital (San Antonio);Baptist Health System;,20.2,2,1,3 stars
+609,Dr. Michael P. Halpin,Bronson Methodist Hospital;,20.2,2,2,2 stars
+516,Dr. Shamus Russell Carr,University of Utah Hospital;,20.3,2,2,2 stars
+1312,Dr. Thomas T. Carmody,Mayo Clinic Health System in Eau Claire;Mayo Clinic Hospital St. Marys Campus;,20.3,2,2,2 stars
+718,Dr. Thomas J. Langdon,CHI Health Bergan Mercy;Nebraska Methodist Hospital;,20.4,2,2,2 stars
+101,Dr. Philippe H. Lemoine,Centinela Hospital Medical Center;Providence Little Company of Mary (Torrance);,20.4,2,2,2 stars
+1143,Dr. Scott Harrison Crocker,Abilene Regional Medical Center;Hendrick Medical Center;,20.4,2,2,2 stars
+437,Dr. Michael J. Niehaus,Great River Medical Center;,20.4,2,1,3 stars
+1334,Dr. Paul E. Seifert,Waukesha Memorial Hospital;Wheaton Franciscan;Community Memorial Hospital (Menomonee);,20.4,2,2,2 stars
+763,Dr. Huzaifa Abbas Shakir,St. Mary's Hospital Passaic;HackensackUMC Mountainside;,20.4,2,2,2 stars
+354,Dr. Julio Cesar Vasquez,Portneuf Medical Center;,20.5,2,2,2 stars
+706,Dr. David Zolfaghari,Cox Medical Center;,20.5,2,2,2 stars
+1274,Dr. Alexander Soheil Farivar,Swedish/First Hill;,20.5,2,2,2 stars
+186,Dr. Anthony W. Kim,Yale-New Haven Hospital;,20.5,2,2,2 stars
+688,Dr. Stephen Lee Meyer,Mercy Hospital Joplin;,20.6,2,2,2 stars
+1099,Dr. Lacy Edward Harville,Fort Sanders Regional Medical Center;Parkwest Medical Center;Methodist Medical Center of Oak Ridge;Turkey Creek Medical Center/Physicians Regional Medical Center;,20.6,2,2,2 stars
+140,Dr. Pierre Reynald Theodore,UCSF Medical Center;St. Mary's Medical Center (San Francisco);,20.6,2,2,2 stars
+180,Dr. Albert C. Dimeo,St. Vincent's Medical Center;,20.6,2,2,2 stars
+568,Dr. Steven James Mentzer,Brigham and Women's Hospital;,20.7,2,2,2 stars
+766,Dr. Jay Steinberg,Virtua Berlin/Voorhees;Virtua Memorial;Our Lady of Lourdes Medical Center;,20.7,2,2,2 stars
+242,Dr. Brian Wendell Hummel,Lee Memorial Hospital;Gulf Coast Medical Center (Fort Myers);,20.7,2,2,2 stars
+262,Dr. Hugo L. Mendonca,Regional Medical Center Bayonet Point;Medical Center of Trinity;,20.7,2,2,2 stars
+1033,Dr. Mark Allan Osevala,Williamsport Regional Medical Center;,20.8,2,2,2 stars
+135,Dr. Gregory Scott Spowart,Community Hospital of the Monterey Peninsula;,20.8,2,2,2 stars
+155,Dr. Matthew Blum,Penrose Hospital/St. Francis Medical Center;Memorial Hospital (Colorado Springs);Northwestern Memorial Hospital;,20.9,2,2,2 stars
+233,Dr. Alessandro Ferrero,Florida Hospitals;Orlando Regional Medical Centers;,20.9,2,2,2 stars
+557,Dr. Gary M. Hochheiser,Baystate Medical Center;,20.9,2,2,2 stars
+703,Dr. Van Eric Thompson,Boone Hospital Center;,21.0,2,2,2 stars
+75,Dr. Elizabeth Ashleigh David,UC Davis Medical Center;,21.0,2,2,2 stars
+368,Dr. Malcolm M. Decamp,Northwestern Memorial Hospital;,21.0,2,2,2 stars
+1311,Dr. Nicholas Vito Augelli,Genesis Medical Center;,21.0,2,2,2 stars
+504,Dr. Victor E. Tedesco,Heart Hospital of Lafayette;Lafayette General Medical Center;Our Lady of Lourdes Regional Medical Center;Terrebonne General Medical Center;,21.0,2,2,2 stars
+1256,Dr. Claude Matthew Mcbee,Sentara Obici Hospital;,21.1,2,2,2 stars
+14,Dr. John Burnie Richardson,St. Vincent's Birmingham;St. Vincent's East;,21.1,2,2,2 stars
+1324,Dr. Vincent Gregory Lee,Yavapai Regional Medical Center - West;Meriter Hospital;,21.1,2,2,2 stars
+237,Dr. Sunil Gandhi,Martin Memorial Medical Center;,21.1,2,1,3 stars
+753,Dr. James S. Mccaughan,Community Medical Center (Toms River);Ocean Medical Center;,21.1,2,2,2 stars
+389,Dr. William Fred Polito,Presence Resurrection Medical Center;Community First Medical Center;Northwest Community Hospital;,21.1,2,3,1 star
+1197,Dr. Ralph Francis Paone,University Medical Center (Lubbock);Lubbock Heart Hospital;Covenant Medical Center (Lubbock);,21.1,2,2,2 stars
+425,Dr. Manesh Parikshak,Fransiscan St. Francis Health Indianapolis;Blessing Hospital;,21.1,2,2,2 stars
+1226,Dr. Garrett L. Walsh,The University of Texas M. D. Anderson Cancer Center;,21.2,2,2,2 stars
+505,Dr. Robert Scott Thurston,Our Lady of the Lake Regional Medical Center;Baton Rouge General Medical Center;Ochsner Medical Center - Baton Rouge;,21.2,2,2,2 stars
+1249,Dr. James M. Isbell,University of Virginia Medical Center;,21.2,2,2,2 stars
+1186,Dr. Reza J. Mehran,The University of Texas M. D. Anderson Cancer Center;,21.2,2,2,2 stars
+1140,Dr. Oscar Jack Chastain,Good Shepherd Medical Center (Longview);Longview Regional Medical Center;,21.2,2,2,2 stars
+860,Dr. Bret David Borchelt,Forsyth Medical Center;,21.2,2,2,2 stars
+1161,Dr. Andrew Tucker Hume,St. David's Medical Center;Shannon Medical Center;Seton Medical Center Austin;Seton Medical Center Hays;,21.2,2,2,2 stars
+371,Dr. Paul James Gordon,"Advocate Christ Medical Center;Palos Community Hospital;Little Company of Mary Hospital;Advocate Good Shepherd Hospital;AMITA Adventist Medical Center, La Grange;",21.5,2,2,2 stars
+1283,Dr. Donald Edward Low,Virginia Mason Hospital and Medical Center;,21.5,2,2,2 stars
+139,Dr. Michaela Straznicka,John Muir Medical Center - Walnut Creek Campus;John Muir Medical Center - Concord Campus;,21.5,2,2,2 stars
+1166,Dr. William G. Jones,Doctors Hospital at White Rock Lake;Lake Pointe Medical Center;Texas Regional Medical Center at Sunnyvale;Methodist Dallas Medical Center;,21.5,2,2,2 stars
+1076,Dr. David H. Savage,Piedmont Medical Center;St. Vincent Healthcare;,21.6,2,2,2 stars
+157,Dr. Steven P. Cummings,Winchester Medical Center;Saint Agnes Medical Center;Fresno Heart and Surgical Hospital;,21.7,2,2,2 stars
+161,Dr. Bryan M. Mahan,Memorial Hospital (Colorado Springs);Boulder Community Foothills Hospital;,21.7,2,2,2 stars
+15,Dr. Lee Shefton Riggins,Princeton Baptist Medical Center;Shelby Baptist Medical Center;,21.7,2,2,2 stars
+564,Dr. Jeanne M. Lukanich,Baystate Medical Center;,21.8,2,2,2 stars
+671,Dr. Mark Lawrence Blucher,Mercy Hospital St. Louis;,21.8,2,2,2 stars
+1284,Dr. Jerome Michael Mcdonald,St. Joseph's Medical Center;Sentara RMH Medical Center;Dameron Hospital;,21.8,2,2,2 stars
+314,Dr. Paul Bennett Brock,Redmond Regional Medical Center;Floyd Medical Center;,21.8,2,2,2 stars
+888,Dr. James Klena,UPMC Northwest;,21.8,2,2,2 stars
+384,Dr. Shari Lynn Meyerson,Northwestern Memorial Hospital;Banner-University Medical Center;,21.8,2,2,2 stars
+1157,Dr. Mark S. Hickman,CHRISTUS Santa Rosa Hospital;,21.9,2,2,2 stars
+285,Dr. Edward B. Savage,Cleveland Clinic Florida;,21.9,2,2,2 stars
+621,Dr. Shelly C. Lall,Munson Medical Center;,21.9,2,2,2 stars
+935,Dr. Michael G. Moront,The Toledo Hospital;St. Luke's Hospital (Maumee);,21.9,2,3,1 star
+612,Dr. John Massoud Hilu,Beaumont Hospital - Dearborn;,21.9,2,2,2 stars
+676,Dr. Stephen E. D'Orazio,SSM St. Joseph Health Center;SSM DePaul Health Center;,21.9,2,2,2 stars
+496,Dr. Robert Chance Dewitt,CHRISTUS St. Frances Cabrini Hospital;Rapides Regional Medical Center;Southwest Mississippi Regional Medical Center;,22.0,2,2,2 stars
+949,Dr. Jason Michael Robke,University Hospitals Case Medical Center;St. John Medical Center (Westlake);,22.1,2,2,2 stars
+796,Dr. Robert J. Downey,Memorial Sloan-Kettering Cancer Center;,22.1,2,2,2 stars
+193,Dr. Shawn Tittle,Danbury Hospital;Norwalk Hospital;,22.1,2,2,2 stars
+404,Dr. Anthony J. Ascioti,St. Vincent Hospital (Indianapolis);,22.1,2,2,2 stars
+1287,Dr. David W. Nelson,Overlake Hospital Medical Center;Chandler Regional Medical Center;Banner Heart Hospital;Banner Desert Medical Center;,22.1,2,2,2 stars
+841,Dr. Valerie Williams Rusch,Memorial Sloan-Kettering Cancer Center;,22.1,2,2,2 stars
+136,Dr. Russell David Stanten,Alta Bates Summit Medical Center - Summit Campus;,22.1,2,2,2 stars
+610,Dr. Zane T. Hammoud,Henry Ford Hospital;Henry Ford Wyandotte Hospital;,22.2,2,2,2 stars
+1326,Dr. James D. Maloney,UW Hospital and Clinics;Meriter Hospital;,22.2,2,2,2 stars
+885,Dr. Alan M. Johnson,Mission St. Joseph's Health System;,22.2,2,2,2 stars
+274,Dr. John C. Ofenloch,Morton Plant Hospital;Largo Medical Center;,22.2,2,2,2 stars
+1333,Dr. John Forrest Seccombe,HSHS St. Vincent Hospital;,22.3,2,2,2 stars
+485,Dr. Robert K. Salley,Saint Joseph Hospital (Lexington);,22.3,2,2,2 stars
+895,Dr. Mark A. Sinning,CarolinaEast Medical Center;,22.3,2,2,2 stars
+799,Dr. Raja M. Flores,The Mount Sinai Hospital;Memorial Sloan-Kettering Cancer Center;,22.3,2,2,2 stars
+204,Dr. Richard Clarke Agnew,Mayo Clinic;,22.3,2,2,2 stars
+946,Dr. Siva Raja,Cleveland Clinic;,22.4,2,2,2 stars
+1097,Dr. Eric L. Grogan,Vanderbilt University Medical Center;,22.4,2,2,2 stars
+932,Dr. Robert Ezra Merritt,Stanford University Hospital;,22.4,2,2,2 stars
+547,Dr. Christopher Cua,MetroWest Medical Center;,22.4,2,2,2 stars
+89,Dr. David Mark Jablons,UCSF Medical Center;,22.5,2,2,2 stars
+1205,Dr. Scott Ira Reznik,Scott and White Hospital - Temple;,22.5,2,2,2 stars
+1297,Dr. Douglas E. Wood,University of Washington Medical Center;,22.5,2,2,2 stars
+473,Dr. Robert B. Lee,Maury Regional Hospital;St. Dominic-Jackson Memorial Hospital;Lourdes Hospital - Paducah;Central Mississippi Medical Center;,22.5,2,2,2 stars
+1239,Dr. William Scott Arnold,Carilion Roanoke Memorial Hospital;,22.5,2,1,3 stars
+1119,Dr. Eric M. Sievers,Jackson-Madison County General Hospital;,22.5,2,2,2 stars
+1158,Dr. Thomas T. Hoang,Medical Center of Plano;The Heart Hospital at Baylor Plano;Methodist Richardson Medical Center;Methodist Charlton Medical Center;Texas Health Presbyterian Hospital of Plano;Methodist Dallas Medical Center;Baylor Scott and White Medical Center - Garland;,22.5,2,2,2 stars
+420,Dr. John F. Kuhn,Reid Hospital;,22.5,2,2,2 stars
+538,Dr. James Stuart Allan,North Shore Medical Center (Salem);Wentworth-Douglass Hospital;Massachusetts General Hospital;,22.6,2,2,2 stars
+258,Dr. Geoffrey M. Lynn,Bethesda Hospital East;Delray Medical Center;,22.6,2,2,2 stars
+1255,Dr. Linda W. Martin,Upper Chesapeake Medical Center;University of Maryland Medical Center;University of Maryland St. Joseph Medical Center;,22.6,2,2,2 stars
+460,Dr. Roy Glenn Bowling,Jewish Hospital/Sts. Mary and Elizabeth Hospital;Norton Healthcare;,22.6,2,2,2 stars
+379,Dr. John J. Klosak,Trinity Medical Center (Moline);Genesis Medical Center;,22.6,2,2,2 stars
+747,Dr. James Norman Heller,JFK Medical Center (Edison);Bayonne Medical Center;,22.6,2,2,2 stars
+821,Dr. Cleveland William Lewis,Orange Regional Medical Center;Good Samaritan Hospital (Suffern);,22.6,2,2,2 stars
+1104,Dr. William H. Messerschmidt,Bristol Regional Medical Center;,22.7,2,2,2 stars
+181,Dr. Michael Irwin Ebright,Boston Medical Center;Stamford Hospital;,22.7,2,2,2 stars
+419,Dr. Kenneth Allen Kesler,IU Health University Hospital;,22.7,2,2,2 stars
+1216,Dr. William Eugene Springer,Covenant Medical Center (Lubbock);,22.8,2,2,2 stars
+1101,Dr. Eric Shawn Lambright,Vanderbilt University Medical Center;,22.8,2,2,2 stars
+834,Dr. Jeffrey Lloyd Port,NewYork-Presbyterian;,22.8,2,2,2 stars
+195,Dr. Paul A. Fedalen,Bayhealth Kent General Hospital;,22.8,2,2,2 stars
+74,Dr. David Tom Cooke,UC Davis Medical Center;,22.9,2,2,2 stars
+34,Dr. Douglas G. Lowell,Tucson Medical Center;Carondelet St. Joseph's Hospital;,22.9,2,2,2 stars
+325,Dr. John C. Hastings,Northeast Georgia Medical Center;,22.9,2,2,2 stars
+1028,Dr. James B. McClurken,Doylestown Hospital;Temple University Hospital;,22.9,2,3,1 star
+617,Dr. Robert N. Jones,MidMichigan Medical Center - Midland;,23.0,2,2,2 stars
+682,Dr. Michael Earl Gorton,Liberty Hospital;,23.0,2,2,2 stars
+665,Dr. Billy D. Parsons,Magnolia Regional Health Center;CHRISTUS St. Michael Health System;Wadley Regional Medical Center;,23.0,2,1,3 stars
+1115,Dr. Edward T. Robbins,Baptist Memorial Hospital;Methodist Healthcare;,23.0,2,2,2 stars
+387,Dr. Sammy Issa Nawas,Palos Community Hospital;Advocate Christ Medical Center;Little Company of Mary Hospital;,23.0,2,2,2 stars
+79,Dr. Clark Beeman Fuller,Cedars-Sinai Medical Center;Saint John's Health Center;Torrance Memorial Medical Center;,23.0,2,2,2 stars
+72,Dr. Shigeru Chino,Mission Hospital;Saddleback Memorial Medical Center;,23.0,2,2,2 stars
+358,Dr. Keith David Bowersox,Northwest Community Hospital;Presence Resurrection Medical Center;Presence St. Francis Hospital;Wheaton Franciscan Healthcare St. Francis;Advocate Lutheran General Hospital;,23.0,2,3,1 star
+53,Dr. Matthew Allen Steliga,University of Arkansas for Medical Sciences Medical Center;,23.0,2,2,2 stars
+1151,Dr. Donald M. Gibson,Memorial Hermann Memorial City Medical Center;,23.0,2,2,2 stars
+10,Dr. Stephen K. Kwan,Jackson Hospital (Montgomery);Baptist Medical Center South;,23.0,2,2,2 stars
+36,Dr. Robert D. Riley,Shea Medical Center;Osborn Medical Center;Banner Boswell Medical Center;,23.0,2,2,2 stars
+96,Dr. Michael Peter Koumjian,Sharp Grossmont Hospital;Sharp Chula Vista Medical Center;Scripps Mercy Hospital;Alvarado Hospital;,23.1,2,2,2 stars
+71,Dr. Joseph H. Chammas,Sharp Memorial Hospital;,23.1,2,2,2 stars
+894,Dr. Mark Kevin Reames,Carolinas Medical Center;,23.1,2,2,2 stars
+250,Dr. Charles T. Klodell,UF Health Shands Hospital;,23.1,2,2,2 stars
+1177,Dr. Jeffrey Chaipui Lin,Texas Health Harris Methodist Hospital Fort Worth;Texas Health Huguley Hospital;Plaza Medical Center of Fort Worth;Baylor Medical Center Fort Worth;,23.2,2,2,2 stars
+1281,Dr. Mark M. Levinson,Hutchinson Regional Medical Center;Central Washington Hospital;,23.2,2,2,2 stars
+551,Dr. Torin Patrick Fitton,Lahey Hospital and Medical Center;,23.2,2,2,2 stars
+1145,Dr. Daniel De Armond,CHRISTUS Santa Rosa Hospital;Baptist Health System;,23.3,2,2,2 stars
+1100,Dr. James Robert Headrick,Memorial Hospital (Chattanooga);Parkridge Medical Centers;Erlanger Health System;Turkey Creek Medical Center/Physicians Regional Medical Center;,23.3,2,2,2 stars
+1127,Dr. Peter Baay,Baptist St. Anthony's Hospital;Northwest Texas Healthcare System;,23.3,2,2,2 stars
+251,Dr. David E. Lammermeier,Munroe Regional Medical Center;,23.3,2,2,2 stars
+729,Dr. Yvon Baribeau,Catholic Medical Center;,23.3,2,2,2 stars
+271,Dr. Dao M. Nguyen,University of Miami Hospital;Jackson Memorial Hospital;,23.3,2,2,2 stars
+958,Dr. Samuel Russell Vester,Jewish Hospital;University of Cincinnati Medical Center;Mercy Hospital Fairfield;Mercy Health - Anderson Hospital;Bethesda North Hospital;The Christ Hospital;,23.4,2,2,2 stars
+1034,Dr. Ho Pak,Abington Memorial Hospital;,23.4,2,2,2 stars
+583,Dr. Jon Wee,Brigham and Women's Hospital;South Shore Hospital;,23.4,2,2,2 stars
+1260,Dr. Joseph R. Newton,Sentara Norfolk General Hospital;Sentara Virginia Beach General Hospital;,23.4,2,2,2 stars
+1124,Dr. James Lawrence Zellner,Memorial Hospital (Chattanooga);Parkridge Medical Centers;Erlanger Health System;,23.4,2,2,2 stars
+1338,Dr. Robert J. Wiechmann,Mayo Clinic Health System in Eau Claire;Mayo Clinic Hospital St. Marys Campus;,23.4,2,2,2 stars
+1163,Dr. John Laurence Jay,Methodist Dallas Medical Center;Methodist Charlton Medical Center;Methodist Mansfield Medical Center;,23.5,2,2,2 stars
+1086,Dr. Verlyn J. Nykamp,Sanford USD Medical Center;,23.5,2,2,2 stars
+319,Dr. Seth Daniel Force,Emory University Hospital;,23.5,2,2,2 stars
+1113,Dr. Timothy John Powell,Cookeville Regional Medical Center;,23.6,2,2,2 stars
+292,Dr. Bryan Leonard Smith,Venice Regional Bayfront Health;,23.6,2,2,2 stars
+272,Dr. James L. Nielsen,Baptist Hospital;Sacred Heart Hospital (Pensacola);,23.6,2,2,2 stars
+166,Dr. Sara Jane Pereira,St. Mary's Medical Center (Grand Junction);,23.6,2,2,2 stars
+168,Dr. Edward P. Raines,BryanLGH Medical Center;Faith Regional Health Services;Rockford Memorial Hospital;,23.6,2,2,2 stars
+347,Dr. Alan Daniel Winston,Northeast Georgia Medical Center;,23.6,2,2,2 stars
+686,Dr. Michael Mauney,Missouri Baptist Medical Center;,23.6,2,2,2 stars
+1024,Dr. Vincent E. Lotano,Pennsylvania Hospital;Lehigh Valley Hospital;,23.6,2,2,2 stars
+920,Dr. Eric A. Espinal,Summa Akron City Hospital;Summa Western Reserve Hospital;,23.7,2,2,2 stars
+931,Dr. Thomas J. Merle,Kettering Medical Center;Atrium Medical Center;,23.7,2,2,2 stars
+900,Dr. David Cloid White,Duke Raleigh Hospital;Rex Hospital;WakeMed Raleigh Campus;,23.7,2,2,2 stars
+405,Dr. Elizabeth M. Ashworth,Hays Medical Center;Columbus Regional Hospital;,23.7,2,2,2 stars
+527,Dr. Avedis Meneshian,The Johns Hopkins Hospital;Anne Arundel Medical Center;Johns Hopkins Bayview Medical Center;,23.8,2,2,2 stars
+687,Dr. Richard J. Mellitt,Boone Hospital Center;,23.8,2,2,2 stars
+553,Dr. Christian R. Galvez-Padilla,Berkshire Medical Center;,23.8,2,2,2 stars
+534,Dr. Mark F. Sullivan,Meritus Medical Center;,23.8,2,2,2 stars
+102,Dr. Ali Mahtabifard,Cedars-Sinai Medical Center;Saint John's Health Center;,23.8,2,2,2 stars
+442,Dr. Mark Taylor,Mary Greeley Medical Center;,23.9,2,2,2 stars
+291,Dr. David P. Sims,Wuesthoff Medical Center - Rockledge;,23.9,2,2,2 stars
+1077,Dr. Scot Christian Schultz,NCH Hospitals;McLeod Regional Medical Center;Gulf Coast Medical Center (Fort Myers);,23.9,2,2,2 stars
+95,Dr. Ara S. Klijian,Sharp Chula Vista Medical Center;Scripps Mercy Hospital;,23.9,2,2,2 stars
+978,Dr. Jeffrey F. Boskind,Adventist Medical Center;Providence Portland Medical Center;,24.0,2,1,3 stars
+449,Dr. Thomas H. Estep,Wesley Medical Center;Kansas Heart Hospital;Via Christi Hospital;,24.0,2,3,1 star
+728,Dr. Robert G. Wiencek,St. Rose Dominican Hospitals - San Martin Campus;Sunrise Hospital and Medical Center;MountainView Hospital;St. Rose Dominican Hospitals - Siena Campus;Desert Springs Hospital Medical Center;Valley Hospital Medical Center;,24.0,2,2,2 stars
+692,Dr. Alexander F. Pak,North Kansas City Hospital;Saint Luke's Hospital of Kansas City;,24.0,2,2,2 stars
+968,Dr. Michael R. Phillips,Freeman Hospital West;Hillcrest Medical Center;Via Christi Hospital - Pittsburg;Hillcrest Hospital South;,24.0,2,2,2 stars
+679,Dr. Peter Fonseca,St. Anthony's Medical Center;SSM DePaul Health Center;,24.0,2,2,2 stars
+517,Dr. Stephen Michael Cattaneo,Anne Arundel Medical Center;,24.1,2,2,2 stars
+725,Dr. John H. Ganser,Saint Mary's Regional Medical Center;Renown Regional Medical Center;Renown South Meadows Medical Center;,24.1,2,2,2 stars
+512,Dr. Tracey L. Weigel,UW Hospital and Clinics;Maine Medical Center;,24.2,2,2,2 stars
+546,Dr. Yolonda Lorig Colson,Brigham and Women's Hospital;,24.2,2,2,2 stars
+1007,Dr. Mark Epler,Lancaster General Hospital;Summerville Medical Center/Trident Medical Center;,24.2,2,2,2 stars
+879,Dr. Charles Dulaney Harr,Novant Health Presbyterian Medical Center;Carolinas Medical Center;,24.2,2,2,2 stars
+44,Dr. Hugh F. Burnett,Baptist Health Medical Center Little Rock;St. Vincent Infirmary Medical Center;,24.2,2,2,2 stars
+941,Dr. John W. Perry,Mercy Medical Center (Canton);Holzer Medical Center Gallipolis;,24.3,2,2,2 stars
+633,Dr. Allan Pickens,Emory University Hospital Midtown;Emory University Hospital;,24.3,2,2,2 stars
+115,Dr. Daniel Sangwon Oh,Keck Hospital of USC;St. Jude Medical Center;,24.3,2,2,2 stars
+1135,Dr. Bryan Michael Burt,Stanford University Hospital;,24.3,2,2,2 stars
+849,Dr. Brendon Matthew Stiles,NewYork-Presbyterian;,24.4,2,2,2 stars
+56,Dr. Edward Warren,National Park Medical Center;,24.4,2,2,2 stars
+1102,Dr. Lifford L. Lancaster,TriStar Skyline Medical Center;TriStar Centennial Medical Center;Saint Thomas Midtown Hospital;TriStar Summit Medical Center;,24.4,2,2,2 stars
+374,Dr. Stephen R. Hazelrigg,Memorial Medical Center (Springfield);HSHS St. John's Hospital;,24.4,2,2,2 stars
+490,Dr. Victor Henry Vanberkel,Jewish Hospital/Sts. Mary and Elizabeth Hospital;University of Louisville Hospital;Norton Healthcare;,24.5,2,2,2 stars
+304,Dr. Eric Toloza,H. Lee Moffitt Cancer Center and Research Institute;Duke Raleigh Hospital;,24.5,2,2,2 stars
+691,Dr. Michael C. Murphy,Missouri Baptist Medical Center;,24.5,2,2,2 stars
+901,Dr. Richard F. Williams,Vidant Medical Center;,24.5,2,2,2 stars
+1009,Dr. Nathaniel Rutherford Evans,Thomas Jefferson University Hospital/Methodist Hospital;,24.5,2,2,2 stars
+581,Dr. John Charles Wain,Massachusetts General Hospital;,24.6,2,2,2 stars
+91,Dr. Colin Isao Joyo,Hoag Memorial Hospital Presbyterian;,24.6,2,2,2 stars
+709,Dr. Jason Fitzgerald,St. Vincent Healthcare;,24.6,2,3,1 star
+151,Dr. Roderick K. Yasuda,Northridge Hospital Medical Center;West Hills Hospital and Medical Center;Providence Holy Cross Medical Center;Providence Tarzana Medical Center;Valley Presbyterian Hospital;,24.6,2,2,2 stars
+744,Dr. Elie Elmann,Hackensack University Medical Center;Good Samaritan Hospital (Suffern);Englewood Hospital and Medical Center;,24.6,2,2,2 stars
+27,Dr. R. Randall Grace,John C. Lincoln North Mountain Hospital;Shea Medical Center;,24.6,2,2,2 stars
+989,Dr. Andrew Cho Tsen,Legacy Good Samaritan Hospital and Medical Center;,24.6,2,2,2 stars
+381,Dr. Michael Justin Liptay,Rush University Medical Center;Skokie Hospital;NorthShore University Health System;,24.6,2,2,2 stars
+730,Dr. David J. Finley,Memorial Sloan-Kettering Cancer Center;,24.6,2,2,2 stars
+177,Dr. Daniel Joseph Boffa,Yale-New Haven Hospital;,24.7,2,2,2 stars
+245,Dr. Robert James Keenan,Allegheny General Hospital;Forbes Hospital;,24.7,2,1,3 stars
+507,Dr. Seth D. Blank,Maine Medical Center;Mercy Hospital (Portland);,24.7,2,2,2 stars
+477,Dr. George J. Mikos,Norton Healthcare;,24.8,2,2,2 stars
+871,Dr. Stephen W. Ely,Mission St. Joseph's Health System;,24.8,2,1,3 stars
+51,Dr. David J. Miller,Sparks Regional Medical Center;Hillcrest Hospital South;,24.8,2,1,3 stars
+1225,Dr. Michael A. Wait,UT Southwestern University Hospital St. Paul;Parkland Health and Hospital System;,24.8,2,2,2 stars
+132,Dr. Joseph B. Shrager,Stanford University Hospital;,24.8,2,2,2 stars
+774,Dr. Nasser Khaled A. Altorki,NewYork-Presbyterian;,24.8,2,2,2 stars
+823,Dr. Avraham D. Merav,Phelps Hospital;,24.8,2,2,2 stars
+549,Dr. Christopher Thomas Ducko,South Shore Hospital;Brigham and Women's Hospital;,24.8,2,2,2 stars
+406,Dr. Andrew R. Barksdale,Fransiscan St. Francis Health Indianapolis;The Community Hospital;Franciscan St. James Health;St. Catherine Hospital (East Chicago);,24.9,2,2,2 stars
+1008,Dr. Cherie Pwu Parungo Erkmen,Dartmouth-Hitchcock Medical Center;,24.9,2,2,2 stars
+588,Dr. Frederick Roger Armenti,McLaren Flint;,24.9,2,2,2 stars
+767,Dr. Federico A. Steiner,Morristown Memorial Hospital;,24.9,2,2,2 stars
+369,Dr. Marvin J. Derrick,Decatur Memorial Hospital;,25.0,2,2,2 stars
+323,Dr. John W. Gouldman,Northside Hospital (Atlanta);Emory St. Joseph's Hospital;,25.0,2,2,2 stars
+645,Dr. Charles L. Willekes,Spectrum Health;,25.0,2,2,2 stars
+608,Dr. Ajay Gupta,St. Joseph Mercy Hospital;,25.0,2,2,2 stars
+391,Dr. William G. Pyle,Memorial Medical Center (Springfield);HSHS St. John's Hospital;Memorial Hospital of Carbondale;,25.0,2,2,2 stars
+482,Dr. James P. O'Rourke,Lourdes Hospital - Paducah;Baptist Health Paducah;,25.1,2,2,2 stars
+257,Dr. James L. Lonquist,Baptist Hospital;Sacred Heart Hospital (Pensacola);,25.1,2,2,2 stars
+243,Dr. Vasant Jayasankar,Memorial Hospital Jacksonville;Mercy Medical Center (Des Moines);St. Vincent's Medical Center Riverside;Orange Park Medical Center;Flagler Hospital;,25.1,2,3,1 star
+322,Dr. Dhru Scott Girard,Redmond Regional Medical Center;Floyd Medical Center;,25.1,2,2,2 stars
+474,Dr. Robert William Linker,Baptist Health Louisville;,25.1,2,2,2 stars
+963,Dr. Subrato Jesse Deb,Western Maryland Regional Medical Center;OU Medical Center;,25.2,2,2,2 stars
+1219,Dr. Stephen G. Swisher,The University of Texas M. D. Anderson Cancer Center;,25.2,2,2,2 stars
+1048,Dr. Joseph J. Wizorek,UPMC Horizon;,25.2,2,2,2 stars
+1267,Dr. John Sherwood,Mary Washington Hospital;,25.2,2,2,2 stars
+1246,Dr. John Richard Garrett,Virginia Hospital Center;,25.2,2,2,2 stars
+45,Dr. Edgar J. Chauvin,Mercy Hospital Northwest Arkansas;Conway Regional Medical Center;,25.2,2,3,1 star
+430,Dr. Michael Frederick Steinberg,Memorial Hospital of South Bend;Elkhart General Hospital;Saint Joseph Regional Medical Center;,25.2,2,2,2 stars
+835,Dr. Suhas V. Pradhan,St. Joseph's Hospital Health Center;Crouse Hospital;,25.2,2,2,2 stars
+1319,Dr. James David Hall,Wheaton Franciscan Healthcare All Saints;Providence Little Company of Mary (Torrance);Wheaton Franciscan Healthcare St. Francis;Torrance Memorial Medical Center;,25.3,2,2,2 stars
+6,Dr. Larkin Jeffrey Daniels,Mobile Infirmary Medical Center;Providence Hospital (Mobile);Springhill Medical Center;,25.3,2,2,2 stars
+523,Dr. Richard F. Heitmiller,Union Memorial Hospital;,25.3,2,1,3 stars
+873,Dr. Richard Marston Gillespie,Rex Hospital;,25.3,2,2,2 stars
+759,Dr. Michael A. Pontoriero,Clara Maass Medical Center;,25.3,2,1,3 stars
+223,Dr. Harry J. D'Agostino,UF Health Jacksonville;Baptist Medical Center;,25.3,2,2,2 stars
+829,Dr. Terry Palatt,Good Samaritan Hospital Medical Center;,25.3,2,2,2 stars
+800,Dr. Stewart Fox,South Nassau Communities Hospital;,25.4,2,2,2 stars
+1046,Dr. Michael James Walker,Bryn Mawr Hospital;Lankenau Medical Center;,25.4,2,2,2 stars
+1194,Dr. Scott E. Olsson,Houston Methodist West Hospital;Houston Methodist St. Catherine Hospital;North Cypress Medical Center;Memorial Hermann Memorial City Medical Center;,25.4,2,2,2 stars
+720,Dr. Richard B. Thompson,BryanLGH Medical Center;Lancaster General Hospital;,25.4,2,2,2 stars
+380,Dr. Robert Gerard Kummerer,Advocate Condell Medical Center;Advocate Good Shepherd Hospital;Wheaton Franciscan Healthcare All Saints;,25.4,2,2,2 stars
+231,Dr. Gregory James England,Bay Medical Center;,25.4,2,2,2 stars
+893,Dr. Alden Maier Parsons,Rex Hospital;,25.4,2,2,2 stars
+1253,Dr. Christine Lynn Lau,University of Virginia Medical Center;,25.5,2,2,2 stars
+1258,Dr. Michael F. McGrath,Sentara Norfolk General Hospital;Sentara Virginia Beach General Hospital;,25.5,2,2,2 stars
+662,Dr. James C. Gilmore,Magnolia Regional Health Center;,25.5,2,2,2 stars
+220,Dr. Paul Nicholas Chomiak,Frederick Memorial Hospital;,25.5,2,2,2 stars
+1285,Dr. Michael Mulligan,University of Washington Medical Center;,25.5,2,2,2 stars
+350,Dr. Robert J. Burnett,Kootenai Medical Center;,25.6,2,2,2 stars
+209,Dr. Mark Ian Block,Memorial Regional Hospital;Memorial Hospital West;,25.6,2,2,2 stars
+1301,Dr. Geoffrey R. Cousins,"CAMC</li> <li class=""checkconfirm"" style=""""><span>   </span>Ruby Memorial Hospital;Thomas Memorial Hospital;",25.6,2,1,3 stars
+777,Dr. Manjit S. Bains,Memorial Sloan-Kettering Cancer Center;,25.7,2,2,2 stars
+830,Dr. Bernard J. Park,Hackensack University Medical Center;Memorial Sloan-Kettering Cancer Center;HackensackUMC Mountainside;,25.7,2,2,2 stars
+593,Dr. Theodore J. Boeve,Mercy Health;Spectrum Health;,25.7,2,2,2 stars
+288,Dr. Andrew James Sherman,St. Joseph's Hospital (Tampa);Lakeland Regional Medical Center;,25.7,2,2,2 stars
+60,Dr. Peter Thomas Anastassiou,California Pacific Medical Center;Sutter Santa Rosa Regional Hospital;Seton Medical Center;,25.8,2,1,3 stars
+825,Dr. Darroch W. O. Moores,St. Peter's Hospital (Albany);,25.8,2,2,2 stars
+179,Dr. Frank C. Detterbeck,Yale-New Haven Hospital;,25.8,2,2,2 stars
+928,Dr. Kok H. Lim,Good Samaritan Hospital (Dayton);Miami Valley Hospital;,25.8,2,2,2 stars
+536,Dr. Kurt Emil Wehberg,Peninsula Regional Medical Center;,25.8,2,2,2 stars
+207,Dr. Louis I. Astra,Florida Hospital North Pinellas;Medical Center of Trinity;Morton Plant North Bay Hospital;,25.8,2,2,2 stars
+46,Dr. James Stephen Counce,Northwest Medical Center (Bentonville);Washington Regional Medical Center;,25.8,2,2,2 stars
+351,Dr. Stephen M. Fall,St. Alphonsus Regional Medical Center;Penn Highlands DuBois;,25.8,2,1,3 stars
+286,Dr. Rick Jeffrey Schmidt,Mease Countryside Hospital;Mease Dunedin Hospital;,25.9,2,2,2 stars
+1057,Dr. William D. Bolton,Greenville Memorial Hospital;,25.9,2,2,2 stars
+884,Dr. Mark David Iannettoni,University of Iowa Hospitals and Clinics;,25.9,2,2,2 stars
+1078,Dr. James Edmond Stephenson,Greenville Memorial Hospital;,25.9,2,2,2 stars
+481,Dr. Timothy Mullett,UK HealthCare;,25.9,2,2,2 stars
+1308,Dr. Albert Francois Olivier,Raleigh General Hospital;,25.9,2,2,2 stars
+1131,Dr. Shanda Jo Blackmon,Houston Methodist Hospital;Mayo Clinic Hospital St. Marys Campus;,26.0,2,2,2 stars
+598,Dr. Gary William Chmielewski,Rush University Medical Center;Beaumont Hospital Royal Oak;,26.0,2,2,2 stars
+781,Dr. William E. Bollengier,Vassar Brothers Medical Center;,26.1,2,2,2 stars
+373,Dr. Todd Guynn,Rush-Copley Medical Center;,26.1,2,2,2 stars
+1071,Dr. Christope Liem Nguyen,Spartanburg Regional Medical Center;,26.1,2,2,2 stars
+1242,Dr. Anthony D. Cassano,VCU Medical Center;,26.1,2,2,2 stars
+238,Dr. Farid Gharagozloo,Banner-University Medical Center;Reston Hospital Center;George Washington University Hospital;,26.1,2,2,2 stars
+336,Dr. William Rodger Mayfield,WellStar Kennestone Hospital;Piedmont Hospital;,26.1,2,2,2 stars
+954,Dr. Sandra Starnes,University of Cincinnati Medical Center;,26.1,2,2,2 stars
+1250,Dr. Sandeep J. Khandhar,Inova Fairfax Hospital;,26.1,2,2,2 stars
+985,Dr. Paul S. Koh,Sacred Heart Medical Center at RiverBend;,26.1,2,2,2 stars
+109,Dr. Robert Joseph McKenna,Cedars-Sinai Medical Center;,26.2,2,2,2 stars
+1150,Dr. James R. Garrison,Methodist Hospital (San Antonio);Methodist Stone Oak Hospital;Baptist Health System;CHRISTUS Santa Rosa Hospital;,26.2,2,2,2 stars
+1017,Dr. Mark R. Katlic,Sinai Hospital of Baltimore;Geisinger Wyoming Valley Medical Center;,26.3,2,2,2 stars
+764,Dr. Loki Skylizard,Monmouth Medical Center;Pocono Medical Center;,26.3,2,2,2 stars
+911,Dr. Geoffrey Answini,The Christ Hospital;Bethesda North Hospital;,26.3,2,2,2 stars
+1064,Dr. Gregory Jones,McLeod Regional Medical Center;,26.3,2,2,2 stars
+783,Dr. Gregory R. Brevetti,John T. Mather Memorial Hospital;Lutheran Medical Center (Brooklyn);Mount Sinai Beth Israel Medical Center - Petrie Division;,26.3,2,2,2 stars
+170,Dr. Michael W. Stanton,Medical Center of the Rockies;Poudre Valley Hospital;,26.3,2,2,2 stars
+208,Dr. Nathan Ramsey Bates,Orange Park Medical Center;St. Vincent's Medical Center Riverside;Baptist Medical Center;Flagler Hospital;,26.4,2,2,2 stars
+864,Dr. Robert Michael Cortina,New Hanover Regional Medical Center;,26.4,2,2,2 stars
+65,Dr. Mark Francis Berry,Duke University Hospital;,26.4,2,2,2 stars
+1074,Dr. Curtis C. Quinn,Community Memorial Hospital (Menomonee);Phoebe Putney Memorial Hospital;Waukesha Memorial Hospital;Aurora Medical Center (Grafton);,26.4,2,2,2 stars
+302,Dr. James C. Thornton,Martin Memorial Medical Center;Citrus Memorial Hospital;,26.4,2,2,2 stars
+500,Dr. David P. Hamm,Willis-Knighton Medical Center;,26.4,2,2,2 stars
+345,Dr. Michael Barry Stubbs,DeKalb Medical Center at North Decatur;,26.4,2,2,2 stars
+312,Dr. David A. Wyatt,Carilion Roanoke Memorial Hospital;,26.5,2,2,2 stars
+809,Dr. Robert Joseph Johnson,Samaritan Medical Center;,26.5,2,2,2 stars
+878,Dr. David H. Harpole,Duke University Hospital;,26.5,2,2,2 stars
+484,Dr. Sibu Saha,UK HealthCare;,26.5,2,2,2 stars
+196,Dr. Charles R. Mulligan,Centra Lynchburg General/Centra Virginia Baptist;Christiana Hospital/Wilmington Hospital;,26.6,2,2,2 stars
+497,Dr. Charles J. Dicorte,North Oaks Medical Center;St. Tammany Parish Hospital;Lakeview Regional Medical Center;,26.6,2,2,2 stars
+447,Dr. Matthew Anthony Arneson,Kansas Heart Hospital;Wesley Medical Center;Via Christi Hospital;,26.6,2,2,2 stars
+681,Dr. Michael Ford Gibson,Liberty Hospital;Carolinas Hospital System;,26.6,2,2,2 stars
+78,Dr. Gansevoort Hurlbut Dunnington,St. Helena Hospital;El Camino Hospital;Stanford University Hospital;Queen of the Valley Medical Center;,26.6,2,2,2 stars
+297,Dr. Robert Jay Still,Baptist Medical Center;Flagler Hospital;,26.7,2,2,2 stars
+1050,Dr. Jacques-Pierre Fontaine,H. Lee Moffitt Cancer Center and Research Institute;,26.7,2,2,2 stars
+1323,Dr. Chong Chin Lee,St. Clare's Hospital;,26.7,2,1,3 stars
+468,Dr. Vanessa R. Gibson,Upstate University Hospital;,26.7,2,2,2 stars
+1132,Dr. Richard Thomson Bowman,Medical Center of Plano;The Heart Hospital at Baylor Plano;,26.7,2,2,2 stars
+93,Dr. Shamsuddin Khwaja,Fresno Heart and Surgical Hospital;Saint Agnes Medical Center;Community Regional Medical Center;Clovis Community Medical Center;,26.7,2,2,2 stars
+910,Dr. Rami Akhrass,Lake Health Medical Center;MetroHealth Medical Center;,26.7,2,2,2 stars
+1032,Dr. Brian Douglas Mott,Geisinger-Community Medical Center;Regional Hospital of Scranton;,26.8,2,2,2 stars
+1,Dr. Robert Cerfolio,UAB Hospital;,26.8,2,2,2 stars
+4,Dr. Barry Glen Crowe,East Alabama Medical Center;,26.8,2,2,2 stars
+276,Dr. Richard Gordon Picciocca,Brandon Regional Hospital;,26.8,2,2,2 stars
+667,Dr. Vishal Sachdev,North Mississippi Medical Center - Tupelo;,26.8,2,2,2 stars
+1329,Dr. Daryl P. Pearlstein,Waukesha Memorial Hospital;Columbia St. Mary's Hospital Milwaukee;Froedtert Hospital;,26.8,2,2,2 stars
+683,Dr. Bruce Jones,St. Francis Medical Center (Cape Girardeau);,26.9,2,2,2 stars
+673,Dr. Jeanne H. Cleveland,Mercy Hospital St. Louis;,26.9,2,2,2 stars
+295,Dr. Keith Eric Sommers,Tampa General Hospital;H. Lee Moffitt Cancer Center and Research Institute;Florida Hospital Tampa;,26.9,2,2,2 stars
+1215,Dr. J. Marvin Smith,Methodist Hospital (San Antonio);,26.9,2,2,2 stars
+355,Dr. Richard Anderson,OSF St. Francis Medical Center;UnityPoint Health - Methodist;,26.9,2,2,2 stars
+971,Dr. Frank E. Schmidt,Saint Francis Hospital (Tulsa);Mercy Hospital Springfield;,27.0,2,2,2 stars
+524,Dr. Gavin L. Henry,St. Agnes Hospital (Baltimore);Mercy Medical Center (Baltimore);Howard County General Hospital;,27.0,2,2,2 stars
+138,Dr. John M. Stoneburner,Torrance Memorial Medical Center;,27.0,2,2,2 stars
+210,Dr. Stuart L. Boe,Holy Cross Hospital (Fort Lauderdale);Broward Health Medical Center;,27.1,2,1,3 stars
+913,Dr. Karl J. Borsody,Kettering Medical Center;Grandview Medical Center/Southview Medical Center;Atrium Medical Center;,27.1,2,2,2 stars
+308,Dr. Michael J. Wahl,Regional Medical Center Bayonet Point;Oak Hill Hospital;,27.1,2,2,2 stars
+320,Dr. James L. Foster,The Medical Center of Central Georgia;Coliseum Medical Centers;,27.1,2,2,2 stars
+741,Dr. Manny E. Christakos,St. Joseph's Regional Medical Center;St. Mary's Hospital Passaic;Chilton Medical Center;,27.2,2,2,2 stars
+769,Dr. Mark Dennis Widmann,Morristown Memorial Hospital;,27.2,2,2,2 stars
+572,Dr. Ashok Muniappan,Massachusetts General Hospital;,27.2,2,2,2 stars
+111,Dr. Gholam Reza Mohammadzadeh,Los Robles Hospital and Medical Center;Providence Tarzana Medical Center;West Hills Hospital and Medical Center;,27.3,2,2,2 stars
+786,Dr. Russell E. Carlson,CHS Sisters of Charity Hospital;,27.4,2,2,2 stars
+431,Dr. John H. Storey,Community Heart and Vascular Hospital;Community Hospital North;,27.4,2,2,2 stars
+1019,Dr. John C. Kucharczuk,Hospital of the University of Pennsylvania;,27.4,2,2,2 stars
+107,Dr. Stephen Daniel Maxwell,Sutter Roseville Medical Center;Mercy San Juan Medical Center;,27.4,2,2,2 stars
+287,Dr. Robert Steven Scoma,Good Samaritan Medical Center (West Palm Beach);JFK Medical Center (Atlantis);,27.4,2,2,2 stars
+1065,Dr. Elizabeth Miller Kline,Roper Hospital;,27.4,2,2,2 stars
+570,Dr. Christopher R. Morse,Massachusetts General Hospital;North Shore Medical Center (Salem);,27.5,2,2,2 stars
+947,Dr. Daniel Philip Raymond,Cleveland Clinic;Strong Memorial Hospital of the University of Rochester;,27.5,2,2,2 stars
+1138,Dr. Michael B. Cannon,CHRISTUS St. Michael Health System;Wadley Regional Medical Center;,27.5,2,2,2 stars
+594,Dr. Luis Gabriel Camero,St. John Hospital and Medical Center;Beaumont Hospital Grosse Pointe;St. John Macomb/Oakland Hospitals;,27.5,2,2,2 stars
+234,Dr. Norman Reed Finney,Bay Medical Center;,27.5,2,2,2 stars
+846,Dr. Joshua Robert Sonett,NewYork-Presbyterian;,27.6,2,2,2 stars
+842,Dr. Jason L. Schneider,Good Samaritan Hospital Medical Center;Southside Hospital;,27.6,2,1,3 stars
+788,Dr. Paul Mcdonnell Cathcart,Putnam Hospital Center;,27.6,2,2,2 stars
+451,Dr. Brett Eugene Grizzell,Kansas Heart Hospital;Via Christi Hospital;Wesley Medical Center;,27.6,2,2,2 stars
+221,Dr. Charles Donaldson Cousar,Baptist Medical Center;,27.6,2,2,2 stars
+739,Dr. Frank W. Bowen,Cooper University Hospital;,27.6,2,2,2 stars
+118,Dr. Michael Anthony Palmer,St. Joseph Hospital (Eureka);,27.6,2,2,2 stars
+582,Dr. Rebecca M. Weaver,MetroWest Medical Center;,27.6,2,1,3 stars
+847,Dr. Laurence Nelson Spier,North Shore University Hospital/Syosset Hospital;St. Francis Hospital (Roslyn);,27.7,2,2,2 stars
+1185,Dr. Thomas Michael Mcgovern,East Texas Medical Center Tyler;Mother Frances Hospital;,27.7,2,3,1 star
+945,Dr. Kevin M. Radecki,Mount Carmel Hospital;Mount Carmel St. Ann's Hospital;,27.7,2,2,2 stars
+0,Dr. Paul Louis Cammack,Baptist Medical Center South;,27.7,2,2,2 stars
+511,Dr. Philip T. Peverada,MaineGeneral Medical Center;Eastern Maine Medical Center;,27.7,2,2,2 stars
+696,Dr. James R. Scharff,Missouri Baptist Medical Center;St. Luke's Hospital (Chesterfield);St. Anthony's Medical Center;,27.7,2,2,2 stars
+228,Dr. Paul L. Digiorgi,Lee Memorial Hospital;Gulf Coast Medical Center (Fort Myers);,27.7,2,2,2 stars
+540,Dr. Bruce W. Barlam,Lahey Health;North Shore Medical Center (Salem);,27.7,2,2,2 stars
+248,Dr. Nayer N. Khouzam,Florida Hospitals;Orlando Regional Medical Centers;,27.8,2,2,2 stars
+1108,Dr. Edmond W. Owen,Methodist Healthcare;Baptist Memorial Hospital - DeSoto;Baptist Memorial Hospital;,27.8,2,2,2 stars
+416,Dr. Walter Henry Halloran,Elkhart General Hospital;Saint Joseph Regional Medical Center;Memorial Hospital of South Bend;,27.8,2,2,2 stars
+880,Dr. Matthew Galen Hartwig,Duke University Hospital;,27.9,2,2,2 stars
+22,Dr. Kenneth Anthony Ashton,John C. Lincoln Deer Valley Hospital;Osborn Medical Center;Shea Medical Center;Abrazo Arrowhead Campus;John C. Lincoln North Mountain Hospital;Banner Thunderbird Medical Center;St. Joseph's Hospital and Medical Center;Banner Estrella Medical Center;Banner Boswell Medical Center;Banner University Medical Center Phoenix;Flagstaff Medical Center;,27.9,2,2,2 stars
+967,Dr. Steven D. Miller,Comanche County Memorial Hospital;,27.9,2,2,2 stars
+579,Dr. Scott Swanson,Brigham and Women's Hospital;,27.9,2,2,2 stars
+721,Dr. Karin Trujillo,The Nebraska Medical Center;,27.9,2,2,2 stars
+1330,Dr. Charles F. Reuben,Wheaton Franciscan;Community Memorial Hospital (Menomonee);Waukesha Memorial Hospital;,27.9,2,2,2 stars
+1146,Dr. Jorge Luis De La Garza,Doctors Hospital at Renaissance;,27.9,2,1,3 stars
+357,Dr. Juan Jose Bonilla,Presence Mercy Medical Center;Loyola University Medical Center;Advocate Good Samaritan Hospital;Trinity Medical Center (Moline);Elmhurst Memorial Hospital;Centegra Hospital - McHenry;Edward Hospital;Advocate Lutheran General Hospital;Franciscan St. James Health;Presence Covenant Medical Center;,27.9,2,2,2 stars
+1187,Dr. Mark Menefee Mettauer,St. Luke's The Woodlands Hospital;Tomball Regional Medical Center;Memorial Hermann;Houston Northwest Medical Center;North Cypress Medical Center;Houston Methodist Willowbrook Hospital;,27.9,2,2,2 stars
+756,Dr. Ugochukwu C. Ogwudu,Inspira Medical Center Vineland;Inspira Medical Center Woodbury;,28.0,2,2,2 stars
+487,Dr. T. Mark Stanfield,Baptist Health Madisonville;,28.0,2,2,2 stars
+1122,Dr. Robert Lewis Wilson,Cookeville Regional Medical Center;,28.0,2,2,2 stars
+533,Dr. Bryan M. Steinberg,Washington Adventist Hospital;Holy Cross Hospital (Silver Spring);Doctors Community Hospital;,28.0,2,1,3 stars
+192,Dr. John O. Thayer,Saint Francis Hospital and Medical Center;,28.1,2,2,2 stars
+1208,Dr. Manuel Rodriguez,Northwest Texas Healthcare System;,28.1,2,2,2 stars
+939,Dr. Manisha Ami Patel,Mercy Hospital Fairfield;The Christ Hospital;Jewish Hospital;Mercy Health - West Hospital;Mercy Health - Anderson Hospital;University of Cincinnati Medical Center;,28.1,2,2,2 stars
+313,Dr. Brian Marcus Bailey,Mercy Hospital Springfield;St. Joseph's Hospital (Savannah);,28.1,2,2,2 stars
+1282,Dr. Brian E. Louie,Swedish/First Hill;,28.1,2,2,2 stars
+401,Dr. Timothy Vale Votapka,Advocate Good Shepherd Hospital;Advocate Christ Medical Center;United Hospital (Kenosha);Advocate Condell Medical Center;Advocate Sherman Hospital;,28.1,2,2,2 stars
+562,Dr. Walter J. Lech,Steward Good Samaritan Medical Center;,28.1,2,2,2 stars
+530,Dr. Galen Anthony Ohnmacht,Baltimore Washington Medical Center;,28.2,2,2,2 stars
+672,Dr. Normand Robert Caron,University of Missouri Hospital;,28.2,2,2,2 stars
+1014,Dr. Hans M. Haupt,Phoenixville Hospital;Brandywine Hospital;,28.2,2,2,2 stars
+1021,Dr. Rodney J. Landreneau,UPMC Passavant;Ochsner Medical Center;UPMC St. Margaret;,28.2,2,2,2 stars
+414,Dr. Richard Kent Freeman,St. Vincent Hospital (Indianapolis);,28.2,2,2,2 stars
+604,Dr. Karsten H. Fliegner,Genesys Regional Medical Center;,28.3,2,2,2 stars
+542,Dr. Raphael Bueno,Brigham and Women's Hospital;,28.3,2,2,2 stars
+18,Dr. William Ford Simpson,DCH Regional/Northport Medical Center;,28.3,2,3,1 star
+255,Dr. Bradley Scott Litke,Halifax Health Medical Center;Florida Hospital Ormond Memorial;,28.4,2,2,2 stars
+417,Dr. David Andrew Hormuth,IU Health University Hospital;,28.4,2,2,2 stars
+630,Dr. Edward T. Murphy,Spectrum Health;Mercy Health;,28.4,2,1,3 stars
+700,Dr. John B. Steinberg,Cox Medical Center;,28.4,2,2,2 stars
+441,Dr. Brian Keith Rundall,Eastern Idaho Regional Medical Center;Iowa Methodist Medical Center;,28.4,2,2,2 stars
+1052,Dr. Ikenna Chidume Okereke,The Miriam Hospital;IU Health University Hospital;Rhode Island Hospital;,28.4,2,2,2 stars
+790,Dr. Cliff Patrick Connery,Mount Sinai St. Luke's;Mount Sinai Beth Israel Medical Center - Petrie Division;Vassar Brothers Medical Center;,28.5,2,2,2 stars
+1002,Dr. Jeffrey T. Cope,Lancaster General Hospital;,28.5,2,2,2 stars
+411,Dr. Glenn N. Carlos,St. Mary Medical Center (Hobart);IU Health Ball Memorial Hospital;Methodist Hospitals;,28.5,2,2,2 stars
+346,Dr. Michael A. Watts,University Hospital (Augusta);,28.5,2,2,2 stars
+1167,Dr. Sylwia Karpinski,Wadley Regional Medical Center;Henry Ford Macomb Hospital;,28.6,2,2,2 stars
+771,Dr. Alfredo F. Gurmendi,MountainView Regional Medical Center;Memorial Medical Center of Las Cruces;,28.6,2,2,2 stars
+110,Dr. Jeffrey Milliken,University of California Irvine Medical Center;,28.6,2,2,2 stars
+997,Dr. Mark W. Burlingame,Lancaster General Hospital;,28.6,2,1,3 stars
+1061,Dr. John Derosimo,Baptist Hospital South Florida;South Miami Hospital;,28.7,2,2,2 stars
+502,Dr. Johnny Perez,Thibodaux Regional Medical Center;,28.7,2,2,2 stars
+574,Dr. Keshaudas Pahuja,Steward Good Samaritan Medical Center;Signature Healthcare Brockton Hospital;,28.7,2,2,2 stars
+249,Dr. Peter Y. Kim,Citrus Memorial Hospital;,28.8,2,2,2 stars
+326,Dr. Gerald Andrew Helms,WellStar Cobb Hospital;Ministry St. Joseph's Hospital;WellStar Kennestone Hospital;,28.8,2,2,2 stars
+984,Dr. John Rutherfoord Handy,Providence Portland Medical Center;Providence St. Vincent Medical Center;,28.8,2,2,2 stars
+311,Dr. Roy Francis Williams,Mount Sinai Medical Center;,28.8,2,2,2 stars
+541,Dr. Laurence H. Brinckerhoff,Tufts Medical Center;,28.8,2,2,2 stars
+1331,Dr. Fernando A. Riveron,Aspirus Wausau Hospital;,28.9,2,2,2 stars
+1224,Dr. Richard Martell Vigness,Texas Health Harris Methodist Hospital Fort Worth;Baylor Medical Center Fort Worth;,28.9,2,2,2 stars
+8,Dr. Shaf B. Holden,Huntsville Hospital;Providence Hospital (Mobile);Mobile Infirmary Medical Center;Springhill Medical Center;,28.9,2,2,2 stars
+1254,Dr. Charles Gregory Lockhart,Bon Secours St. Francis Medical Center;Bon Secours Memorial Regional Medical Center;Bon Secours St. Mary's Hospital;,28.9,2,2,2 stars
+742,Dr. Christopher C. Derivaux,Virtua Berlin/Voorhees;Virtua Memorial;Our Lady of Lourdes Medical Center;AtlantiCare Regional Medical Center;,29.0,2,2,2 stars
+1136,Dr. James A. Caccitolo,Mother Frances Hospital;University of Texas Health Science Center at Tyler;,29.0,2,2,2 stars
+1211,Dr. Scott Alan Scheinin,Houston Methodist Hospital;St. Joseph Medical Center (Houston);Memorial Hermann - Texas Medical Center;,29.0,2,2,2 stars
+141,Dr. Bruce Michael Toporoff,St. John's Regional Medical Center;Los Robles Hospital and Medical Center;Community Memorial Hospital (Ventura);,29.0,2,2,2 stars
+690,Dr. Nabil A. Munfakh,Christian Northeast Hospital;Barnes-Jewish Hospital;SMS Health Good Samaritan - Mount Vernon;,29.0,2,2,2 stars
+870,Dr. Peter I. Ellman,FirstHealth Hospitals;,29.0,2,2,2 stars
+814,Dr. Steven Matthew Keller,Montefiore Medical Center;,29.0,2,2,2 stars
+714,Dr. John T. Batter,Nebraska Methodist Hospital;CHI Health Bergan Mercy;The Nebraska Medical Center;,29.1,2,2,2 stars
+483,Dr. Anthony G. Rogers,Central Baptist Hospital;Saint Joseph Hospital (Lexington);,29.1,2,2,2 stars
+1176,Dr. Harry Michael Lewis,Florida Hospital Waterman;Leesburg Regional Medical Center;,29.1,2,2,2 stars
+1236,Dr. Arnold Daniel Chung,MountainView Hospital;,29.1,2,2,2 stars
+712,Dr. Stewart Mclendon Long,St. Patrick Hospital;,29.1,2,2,2 stars
+897,Dr. Medhat Takla,Carolinas Medical Center NorthEast;,29.1,2,2,2 stars
+376,Dr. Vu T. Hoang,Grand Strand Medical Center;Overlake Hospital Medical Center;Advocate Sherman Hospital;Northwest Community Hospital;Presence St. Joseph Hospital (Elgin);,29.1,2,2,2 stars
+1094,Dr. D. Tyler Greenfield,Holston Valley Medical Center;,29.1,2,2,2 stars
+217,Dr. Richard George Cartledge,Delray Medical Center;Boca Raton Regional Hospital;,29.2,2,2,2 stars
+942,Dr. Yaron Perry,Memorial Health University Medical Center;Candler Hospital;University Hospitals Case Medical Center;St. Joseph's Hospital (Savannah);,29.2,2,2,2 stars
+566,Dr. Douglas James Mathisen,Massachusetts General Hospital;,29.2,2,2,2 stars
+936,Dr. Sudish Murthy,Cleveland Clinic;,29.3,2,2,2 stars
+1193,Dr. James Andrew Obney,United Regional Health Care System;,29.3,2,2,2 stars
+337,Dr. Daniel L. Miller,Emory University Hospital;WellStar Kennestone Hospital;,29.3,2,2,2 stars
+1055,Dr. Sharon Ben-Or,Vidant Medical Center;Greenville Memorial Hospital;,29.4,2,2,2 stars
+103,Dr. Farshad Malekmehr,Valley Presbyterian Hospital;Henry Mayo Newhall Memorial Hospital;Mission Community Hospital;,29.4,2,2,2 stars
+1025,Dr. James D. Luketich,"UPMC Braddock/Montegiore,Presbyterian/Shadyside;",29.4,2,2,2 stars
+571,Dr. Keith David Mortman,MedStar Washington Hospital Center;George Washington University Hospital;,29.4,2,2,2 stars
+704,Dr. Raymond Vetsch,Freeman Hospital West;,29.5,2,2,2 stars
+377,Dr. James B. Kase,Blessing Hospital;,29.5,2,2,2 stars
+289,Dr. Michael G. Siegman,Brandon Regional Hospital;Tampa General Hospital;,29.5,2,1,3 stars
+1096,Dr. Brent A. Grishkin,Parkwest Medical Center;,29.5,2,2,2 stars
+868,Dr. Thomas Arthur Edgerton,FirstHealth Hospitals;Piedmont Medical Center;,29.5,2,2,2 stars
+148,Dr. Syam Prasad Vunnamadala,AHMC Anaheim Regional Medical Center;West Anaheim Medical Center;,29.6,2,3,1 star
+930,Dr. Nicholas Michael Lopez,Baptist Health Paducah;,29.6,2,2,2 stars
+386,Dr. John Carlton Myers,Swedish American Hospital;,29.6,2,3,1 star
+992,Dr. Peter J. Andrews,Wilkes-Barre General Hospital;,29.6,2,2,2 stars
+926,Dr. Joseph Anthony Lahorra,University Hospitals Parma Medical Center;Fairview Hospital (Cleveland);MetroHealth Medical Center;,29.6,2,3,1 star
+99,Dr. Jay M. Lee,Ronald Reagan UCLA Medical Center;Hoag Memorial Hospital Presbyterian;,29.6,2,2,2 stars
+214,Dr. Randall W. Buss,Lee Memorial Hospital;Gulf Coast Medical Center (Fort Myers);,29.7,2,2,2 stars
+644,Dr. Robert James Welsh,Beaumont Hospital Royal Oak;Beaumont Hospital Troy;,29.7,2,2,2 stars
+462,Dr. Royce Ford Calhoun,UC Davis Medical Center;Fremont Medical Center/Rideout Memorial Hospital;,29.7,2,2,2 stars
+202,Dr. Margaret Blair Marshall,MedStar Georgetown University Hospital;,29.8,2,2,2 stars
+1092,Dr. Stanley A. Gall,Holston Valley Medical Center;,29.8,2,2,2 stars
+1271,Dr. George Albert Berni,Harrison Medical Center;,29.8,2,2,2 stars
+663,Dr. Albert Michael Koury,Mississippi Baptist Medical Center;St. Dominic-Jackson Memorial Hospital;,29.8,2,2,2 stars
+146,Dr. Conrad Massimo Vial,Mills-Peninsula Medical Center;El Camino Hospital;Dominican Hospital;Sequoia Hospital;,29.8,2,2,2 stars
+865,Dr. Thomas A. D'Amico,Duke University Hospital;,29.8,2,2,2 stars
+675,Dr. Traves Dean Crabtree,Barnes-Jewish Hospital;Christian Northeast Hospital;,29.9,2,2,2 stars
+1004,Dr. Uday K. Dasika,Reading Hospital;,29.9,2,2,2 stars
+160,Dr. Bradley O. Hofer,Porter Adventist Hospital;Swedish Medical Center;Boulder Community Foothills Hospital;Sky Ridge Medical Center;,29.9,2,2,2 stars
+266,Dr. Richard John Morgan,Lawnwood Regional Medical Center and Heart Institute;Indian River Medical Center;Sebastian River Medical Center;,29.9,2,2,2 stars
+643,Dr. Tomasz A. Timek,Spectrum Health;Mercy Health;,30.0,2,1,3 stars
+578,Dr. Jeffrey J. Spillane,Cape Cod Hospital;,30.0,2,2,2 stars
+344,Dr. Walter W. Scott,Southeast Georgia Health System - Brunswick Campus;,30.0,2,2,2 stars
+757,Dr. Subroto Paul,New York-Presbyterian/Queens;NewYork-Presbyterian;,30.1,2,2,2 stars
+324,Dr. Edward L. Hall,John D. Archbold Memorial Hospital;,30.1,2,2,2 stars
+525,Dr. Riny Albair Karras,St. Agnes Hospital (Baltimore);Mercy Medical Center (Baltimore);,30.1,2,2,2 stars
+164,Dr. James Narrod,St. Mary's Medical Center (Grand Junction);,30.1,2,2,2 stars
+915,Dr. Jim Burdine,Mercy St. Vincent Medical Center;,30.2,2,2,2 stars
+84,Dr. Omid Hajiseyed Javadi,Vista Medical Center East;Banner Boswell Medical Center;Lourdes Hospital - Paducah;Shea Medical Center;,30.2,2,2,2 stars
+839,Dr. Darren I. Rohan,HealthAlliance of the Hudson Valley - Broadway Campus;MidHudson Regional Hospital of Westchester Medical Center;HealthAlliance Hospital - Mary's Ave. Campus;Westchester Medical Center;,30.2,2,2,2 stars
+731,Dr. Lawrence Michael Hoepp,Elliot Hospital;Catholic Medical Center;,30.3,2,2,2 stars
+1169,Dr. William F. Kessler,St. David's South Austin Medical Center;Seton Medical Center Austin;St. David's Medical Center;Shannon Medical Center;,30.3,2,3,1 star
+342,Dr. Laura L. Reed,The Medical Center of Central Georgia;Coliseum Medical Centers;,30.4,2,2,2 stars
+556,Dr. Geoffrey M. Graeber,UMass Memorial Medical Center;,30.4,2,2,2 stars
+128,Dr. Donald E. Schepps,Mercy Medical Center Redding;,30.4,2,2,2 stars
+998,Dr. David B. Campbell,Penn State Milton S. Hershey Medical Center;,30.5,2,2,2 stars
+434,Dr. Mir Wasif Ali,St. Luke's Hospital (Cedar Rapids);Mercy Medical Center - Cedar Rapids;Mercy Hospital of Iowa City;,30.5,2,2,2 stars
+811,Dr. David R. Jones,University of Virginia Medical Center;Memorial Sloan-Kettering Cancer Center;,30.5,2,2,2 stars
+983,Dr. Anthony Paul Furnary,Providence St. Vincent Medical Center;McKenzie-Willamette Medical Center;St. Charles Medical Center (Bend);,30.5,2,2,2 stars
+188,Dr. James V. Lettera,Norwalk Hospital;Bridgeport Hospital;St. Vincent's Medical Center;,30.5,2,2,2 stars
+1000,Dr. Neil Alexander Christie,"UPMC Braddock/Montegiore,Presbyterian/Shadyside;",30.6,2,2,2 stars
+626,Dr. James R. Martin,St. John Macomb/Oakland Hospitals;St. John Hospital and Medical Center;McLaren Flint;,30.6,2,2,2 stars
+235,Dr. Adrian J. Finol-Hernandez,The Villages Regional Hospital;Leesburg Regional Medical Center;,30.6,2,2,2 stars
+58,Dr. Amir Abolhoda,University of California Irvine Medical Center;Orange Coast Memorial Medical Center;Long Beach Memorial Medical Center;,30.6,2,1,3 stars
+953,Dr. Thomas A. Schwann,University of Toledo Medical Center;,30.6,2,3,1 star
+362,Dr. Michael Colla,Carle Foundation Hospital;,30.6,2,2,2 stars
+510,Dr. John Dean Klemperer,Eastern Maine Medical Center;,30.7,2,2,2 stars
+329,Dr. Robert E. Jones,Memorial Health University Medical Center;Candler Hospital;St. Joseph's Hospital (Savannah);,30.7,2,2,2 stars
+1095,Dr. Arthur Grimball,Jackson-Madison County General Hospital;,30.8,2,2,2 stars
+891,Dr. Joel Clarence Morgan,Forsyth Medical Center;,30.8,2,2,2 stars
+338,Dr. Jeffrey S. Miller,Emory St. Joseph's Hospital;Northeast Georgia Medical Center;,30.8,2,2,2 stars
+20,Dr. Gregory Allen Thomas,Shelby Baptist Medical Center;Princeton Baptist Medical Center;Brookwood Medical Center;,30.8,2,2,2 stars
+1098,Dr. William C. Hall,Methodist Medical Center of Oak Ridge;Parkwest Medical Center;Fort Sanders Regional Medical Center;,30.9,2,2,2 stars
+899,Dr. Nirmal Kumar Veeramachaneni,University of North Carolina Hospital;The University of Kansas Hospital;,30.9,2,2,2 stars
+260,Dr. John M. Mckinney,Holmes Regional Medical Center;Fawcett Memorial Hospital;,30.9,2,2,2 stars
+328,Dr. Joe H. Johnson,Coliseum Medical Centers;The Medical Center of Central Georgia;South Georgia Medical Center;,30.9,2,2,2 stars
+738,Dr. Jean Philippe Bocage,Robert Wood Johnson University Hospital Somerset;Saint Peter's University Hospital;CentraState Medical Center;Robert Wood Johnson University Hospital;,30.9,2,2,2 stars
+73,Dr. Robbin Gerald Cohen,Huntington Hospital (Pasadena);Keck Hospital of USC;,30.9,2,2,2 stars
+363,Dr. Lynn Scott Cook,Carle Foundation Hospital;,30.9,2,2,2 stars
+1010,Dr. Matthew Alan Facktor,Geisinger Medical Center;,31.0,2,2,2 stars
+395,Dr. Jeffrey Mark Silver,Presence Resurrection Medical Center;Northwest Community Hospital;Community First Medical Center;,31.0,2,2,2 stars
+820,Dr. Paul Chinfai Lee,New York-Presbyterian/Queens;NewYork-Presbyterian;,31.0,2,2,2 stars
+1174,Dr. David A. Ladden,CHI St. Luke's Health Memorial Lufkin;Southwest Mississippi Regional Medical Center;Woodland Heights Medical Center;,31.0,2,2,2 stars
+592,Dr. Norbert E. Baumgartner,Sparrow Hospital;St. Mary's of Michigan - Saginaw;Covenant Medical Center (Saginaw);,31.0,2,2,2 stars
+680,Dr. John M. Forman,Freeman Hospital West;Research Medical Center;St. Joseph Medical Center (Kansas City);Overland Park Regional Medical Center;,31.0,2,1,3 stars
+960,Dr. Robert L. Archer,Saint Francis Hospital (Tulsa);Oklahoma State University Medical Center;,31.1,2,2,2 stars
+740,Dr. Robert J. Caccavale,Robert Wood Johnson University Hospital Somerset;CentraState Medical Center;Saint Peter's University Hospital;,31.1,2,2,2 stars
+97,Dr. Jasleen Kukreja,UCSF Medical Center;,31.1,2,2,2 stars
+670,Dr. Edward M. Bender,St. Francis Medical Center (Cape Girardeau);,31.1,2,2,2 stars
+1118,Dr. Glenn P. Schoettle,Methodist Healthcare;Saint Francis Hospital (Memphis);,31.1,2,2,2 stars
+1261,Dr. Patricia A. Nicolato,VCU Medical Center;Southside Regional Medical Center;,31.2,2,2,2 stars
+17,Dr. Russell Scott Ronson,Brookwood Medical Center;Shelby Baptist Medical Center;Eliza Coffee Memorial Hospital;,31.2,2,2,2 stars
+1291,Dr. Kevin Dewey Robinson,Providence St. Peter Hospital;,31.2,2,2,2 stars
+812,Dr. Nicholas John Karis,Rochester General Hospital;,31.3,2,2,2 stars
+479,Dr. Hamid R. Mohammadzadeh,Saint Joseph Hospital (Lexington);,31.3,2,2,2 stars
+1042,Dr. Sunil Singhal,Hospital of the University of Pennsylvania;,31.4,2,2,2 stars
+131,Dr. Saurin Shah,Eden Medical Center;John Muir Medical Center - Concord Campus;John Muir Medical Center - Walnut Creek Campus;,31.4,2,2,2 stars
+877,Dr. Michael E. Halligan,CarolinaEast Medical Center;,31.4,2,2,2 stars
+589,Dr. Frank A. Baciewicz,Karmanos Cancer Center;DMC Harper/DMC Hutzel;,31.4,2,2,2 stars
+639,Dr. Mack Carlyle Stirling,Munson Medical Center;,31.4,2,2,2 stars
+205,Dr. Gary S. Allen,Florida Hospital Waterman;,31.5,2,2,2 stars
+464,Dr. Wilson Monroe Clements,St. Elizabeth;Central Baptist Hospital;,31.5,2,2,2 stars
+1080,Dr. Jeffrey Allen Travis,Lexington Medical Center;St. Francis Hospital (Columbus);,31.6,2,2,2 stars
+327,Dr. Charles W. Holley,Phoebe Putney Memorial Hospital;,31.6,2,2,2 stars
+407,Dr. Daniel J. Beckman,IU Health University Hospital;,31.6,2,2,2 stars
+959,Dr. Alexander Francis Zolli,Mercy Regional Medical Center (Lorain);University Hospitals Elyria Medical Center;,31.6,2,2,2 stars
+743,Dr. Morris M. Eisen,Virtua Berlin/Voorhees;Kennedy University Hospital;,31.7,2,2,2 stars
+698,Dr. William Mitchel See,Boone Hospital Center;University of Missouri Hospital;Capital Region Medical Center;,31.7,2,2,2 stars
+902,Dr. Leonard James Wudel,Saint Thomas West Hospital;Wake Forest Baptist Medical Center;,31.7,2,2,2 stars
+808,Dr. Mark Robert Jajkowski,CHS Sisters of Charity Hospital;Mercy Hospital of Buffalo;,31.8,2,2,2 stars
+866,Dr. Piotr Dumicz,CarolinaEast Medical Center;,31.8,2,2,2 stars
+112,Dr. Erick Leopoldo Montero,Kingman Regional Medical Center;Mission Hospital;Saddleback Memorial Medical Center;,31.8,2,2,2 stars
+199,Dr. Gary Walter Szydlowski,Lehigh Valley Hospital;Bayhealth Kent General Hospital;Lehigh Valley Hospital - Muhlenberg;,31.8,2,2,2 stars
+29,Dr. Roger James Hucek,Banner Thunderbird Medical Center;Banner Boswell Medical Center;Abrazo West Campus;,31.8,2,2,2 stars
+410,Dr. Elizabeth G. Butler,St. Mary's Medical Center (Evansville);,31.8,2,2,2 stars
+801,Dr. Mark Ellis Ginsburg,NewYork-Presbyterian;Good Samaritan Hospital (Suffern);Nyack Hospital;,31.8,2,2,2 stars
+892,Dr. Mark William Onaitis,Duke University Hospital;,31.8,2,2,2 stars
+531,Dr. Lynne Ann Skaryak,Union Memorial Hospital;,31.9,2,2,2 stars
+863,Dr. Christopher Kevin Cicci,Carolinas Medical Center NorthEast;,32.0,2,2,2 stars
+335,Dr. Vincent Joseph Maffei,St. Mary's Hospital (Athens);,32.0,2,2,2 stars
+1218,Dr. David J. Sugarbaker,Brigham and Women's Hospital;St. Luke's Episcopal Hospital;,32.1,2,2,2 stars
+1247,Dr. Darius Dewitt Hollings,Bon Secours Memorial Regional Medical Center;Bon Secours St. Mary's Hospital;,32.3,2,2,2 stars
+1269,Dr. Christopher D. Willms,Sentara Martha Jefferson Hospital;,32.3,2,2,2 stars
+318,Dr. Albert S. Chang,Duke Raleigh Hospital;Rex Hospital;WakeMed Raleigh Campus;,32.3,2,2,2 stars
+1175,Dr. Himalaya E. Lele,Texas Health Heart and Vascular Hospital Arlington;Baylor Regional Medical Center at Grapevine;TriStar Centennial Medical Center;Saint Thomas Rutherford Hospital;,32.4,2,2,2 stars
+1210,Dr. Arthur Dwayne Santos,Laredo Medical Center;Doctors Hospital of Laredo;,32.4,2,2,2 stars
+689,Dr. Bryan Fitch Meyers,Barnes-Jewish Hospital;Barnes-Jewish West County Hospital;,32.4,2,2,2 stars
+471,Dr. Carl M. Johnson,Baptist Health Paducah;,32.4,2,2,2 stars
+12,Dr. Douglas James Minnich,UAB Hospital;,32.5,2,2,2 stars
+331,Dr. William Clifford Kitchens,University Hospital (Augusta);,32.5,2,2,2 stars
+752,Dr. Daniel James Lee,Capital Health Medical Center - Hopewell;,32.5,2,1,3 stars
+927,Dr. Jai H. Lee,Southwest General Health Center;Summa Akron City Hospital;,32.5,2,2,2 stars
+1044,Dr. Michael Francis Szwerc,Lehigh Valley Hospital;Lehigh Valley Hospital - Muhlenberg;,32.5,2,2,2 stars
+480,Dr. Paul M. Moore,The Medical Center (Bowling Green);,32.6,2,2,2 stars
+785,Dr. Anne T. Cahill,Champlain Valley Physicians Hospital Medical Center;Pocono Medical Center;,32.7,2,3,1 star
+81,Dr. Ali Gheissari,Good Samaritan Hospital (Los Angeles);St. Vincent Medical Center;Providence Saint Joseph Medical Center;Glendale Adventist Medical Center;Methodist Hospital of Southern California;,32.7,2,2,2 stars
+944,Dr. William J. Rachwal,The Toledo Hospital;St. Luke's Hospital (Maumee);,32.7,2,2,2 stars
+32,Dr. Elbert Yeung-Wei Kuo,St. Joseph's Hospital and Medical Center;,32.8,2,2,2 stars
+733,Dr. Steven Milman,Portsmouth Regional Hospital;Greater Baltimore Medical Center;,32.8,2,2,2 stars
+1117,Dr. John Robert Roberts,TriStar Centennial Medical Center;TriStar Summit Medical Center;,32.8,2,2,2 stars
+279,Dr. Joe B. Putnam,Vanderbilt University Medical Center;,32.8,2,2,2 stars
+104,Dr. Michael J. Mann,UCSF Medical Center;,32.9,2,2,2 stars
+876,Dr. Benjamin Haithcock,University of North Carolina Hospital;,32.9,2,2,2 stars
+230,Dr. Mark Richard Dylewski,South Miami Hospital;,32.9,2,2,2 stars
+890,Dr. Robert E. Maughan,Cape Fear Valley Medical Center;,33.0,2,2,2 stars
+506,Dr. Robert Keith White,St. Francis Medical Center (Monroe);,33.1,2,2,2 stars
+191,Dr. Patrick M. Rocco,Hospital of Central Connecticut;University of Connecticut Health Center - John Dempsey Hospital;,33.1,2,3,1 star
+1043,Dr. Stacey Su,Hospital of the University of Pennsylvania;Fox Chase Cancer Center;,33.1,2,2,2 stars
+1227,Dr. Robert J. Wilcott,Texoma Medical Center;,33.1,2,2,2 stars
+1037,Dr. Michael Floren Reed,Penn State Milton S. Hershey Medical Center;,33.1,2,2,2 stars
+973,Dr. James Creed Spann,Hillcrest Medical Center;Mercy Hospital Fort Smith;,33.1,2,2,2 stars
+1079,Dr. John P. Sutton,Providence Hospital (Columbia);,33.1,2,2,2 stars
+1105,Dr. Christopher J. Mutrie,Baptist Memorial Hospital;Baptist Memorial Hospital - DeSoto;,33.1,2,1,3 stars
+601,Dr. Richard Stuart Downey,Mercy Health;McLaren Northern Michigan;Olathe Medical Center;,33.2,2,2,2 stars
+761,Dr. Peter D. Scalia,Jersey Shore University Medical Center;Ocean Medical Center;Riverview Medical Center;,33.2,2,2,2 stars
+432,Dr. James M. Van Daalen,Clark Memorial Hospital;Norton Healthcare;Baptist Health Louisville;,33.2,2,2,2 stars
+216,Dr. Matthew Campbell,Holmes Regional Medical Center;Osceola Regional Medical Center;,33.3,2,2,2 stars
+938,Dr. Steven Earl Park,The Christ Hospital;Good Samaritan Hospital (Cincinnati);St. Elizabeth;Bethesda North Hospital;Mercy Hospital Fairfield;Jewish Hospital;Mercy Health - Anderson Hospital;,33.3,2,2,2 stars
+167,Dr. Theolyn N. Price,Orlando Regional Medical Centers;Penrose Hospital/St. Francis Medical Center;,33.3,2,2,2 stars
+641,Dr. Vita Veronika Sullivan,St. Joseph Mercy Hospital;,33.4,2,2,2 stars
+48,Dr. Louis Woodrow Elkins,Baxter Regional Medical Center;,33.4,2,3,1 star
+232,Dr. Juan Carlos Escalon,William W. Backus Hospital;Hartford Hospital;,33.4,2,2,2 stars
+1171,Dr. Min Peter Kim,Houston Methodist Hospital;,33.4,2,2,2 stars
+624,Dr. William Robert Lynch,University of Iowa Hospitals and Clinics;,33.5,2,2,2 stars
+68,Dr. Lamar J. Bushnell,Community Memorial Hospital (Ventura);,33.5,2,1,3 stars
+137,Dr. Alexander Geoffrey Stein,St. Mary Medical Center (Long Beach);Long Beach Memorial Medical Center;,33.6,2,2,2 stars
+717,Dr. Rudy P. Lackner,The Nebraska Medical Center;,33.6,2,2,2 stars
+341,Dr. Vijay S. Patel,Augusta University Medical Center;,33.6,2,2,2 stars
+1015,Dr. David B. Herlan,Robert Packer Hospital;,33.6,2,2,2 stars
+330,Dr. Saeid Khansarinia,Piedmont Hospital;,33.6,2,2,2 stars
+213,Dr. Clay M. Burnett,St. Joseph Medical Center (Kansas City);Olathe Medical Center;,33.7,2,2,2 stars
+867,Dr. David Allen Duncan,Forsyth Medical Center;,33.7,2,2,2 stars
+57,Dr. Russell Hunter Wood,Washington Regional Medical Center;Northwest Medical Center (Bentonville);,33.8,2,1,3 stars
+134,Dr. Harmik J. Soukiasian,Cedars-Sinai Medical Center;,33.8,2,2,2 stars
+1268,Dr. Bethany B. Tan,Sentara Leigh Hospital;,33.8,2,2,2 stars
+804,Dr. Dipin Gupta,CJW Medical Center;Union Memorial Hospital;Sentara RMH Medical Center;Henrico Doctors' Hospital/Parham Doctors' Hospital;,33.8,2,2,2 stars
+567,Dr. Ciaran J. Mcnamee,Milford Regional Medical Center;Brigham and Women's Hospital;,33.8,2,2,2 stars
+278,Dr. Richard R. Proia,North Florida Regional Medical Center;,33.9,2,2,2 stars
+862,Dr. Ralph Christy,Carolinas Medical Center NorthEast;,33.9,2,2,2 stars
+446,Dr. Keith Blaine Allen,Saint Luke's Hospital of Kansas City;North Kansas City Hospital;,34.0,2,2,2 stars
+950,Dr. Jose Rodriguez,Miami Valley Hospital;Lima Memorial Health System;St. Rita's Medical Center;,34.0,2,2,2 stars
+1273,Dr. Kimberly E. Costas,Providence Regional Medical Center Everett;,34.1,2,2,2 stars
+194,Dr. David J. Underhill,Hartford Hospital;Waterbury Hospital;Saint Mary's Hospital;,34.1,2,1,3 stars
+1112,Dr. Thomas Ross Pollard,Parkwest Medical Center;Turkey Creek Medical Center/Physicians Regional Medical Center;Methodist Medical Center of Oak Ridge;,34.1,2,3,1 star
+638,Dr. David I. Sternberg,"Henry Ford Hospital;Beaumont Hospital, Farmington Hills;Henry Ford Macomb Hospital;",34.1,2,2,2 stars
+55,Dr. Rowland P. Vernon,Sparks Regional Medical Center;Mercy Hospital Fort Smith;,34.1,2,2,2 stars
+461,Dr. Eric Hunter Bronstein,King's Daughters Medical Center (Ashland);St. Joseph's Regional Medical Center;,34.3,2,2,2 stars
+1060,Dr. Chadrick E. Denlinger,MUSC University Medical Center;,34.3,2,2,2 stars
+303,Dr. D. J. Tishko,Mount Carmel Hospital;Baptist Health Medical Center Little Rock;,34.4,2,2,2 stars
+810,Dr. Carolyn Evelyn Jones,Strong Memorial Hospital of the University of Rochester;,34.5,2,2,2 stars
+499,Dr. Tommie Mack Granger,Rapides Regional Medical Center;,34.6,2,1,3 stars
+1139,Dr. David James Carter,Texas Health Harris Methodist Hospital H-E-B;,34.6,2,2,2 stars
+603,Dr. Nabeel George El-Amir,St. Elizabeth Medical Center;Faxton-St. Luke's Healthcare;Champlain Valley Physicians Hospital Medical Center;Sparrow Hospital;McLaren Northern Michigan;,34.6,2,2,2 stars
+782,Dr. John P. Breard,Southside Regional Medical Center;,34.6,2,2,2 stars
+469,Dr. Dennis Havens,Pikeville Medical Center;,34.7,2,2,2 stars
+129,Dr. Steven Michael Schwartz,Good Samaritan Hospital (San Jose);O'Connor Hospital;Regional Medical Center of San Jose;,34.7,2,2,2 stars
+466,Dr. Richard D. Floyd,Saint Joseph Hospital (Lexington);,34.7,2,1,3 stars
+7,Dr. Edward R. Ferguson,Gadsden Regional Medical Center;North Mississippi Medical Center - Tupelo;Riverview Regional Medical Center;,34.8,2,2,2 stars
+370,Dr. Mark Kendric Ferguson,University of Chicago Medical Center;,34.8,2,2,2 stars
+49,Dr. Robert C. Jaggers,Washington Regional Medical Center;Mercy Hospital Fort Smith;Sparks Regional Medical Center;Northwest Medical Center (Bentonville);,34.8,2,2,2 stars
+545,Dr. Michael C. Coello,Beaumont Hospital Royal Oak;St. John Hospital and Medical Center;,34.9,2,2,2 stars
+618,Dr. Sang W. Kim,Beaumont Hospital Royal Oak;Beaumont Hospital Troy;Providence Hospital (Southfield);,34.9,2,2,2 stars
+652,Dr. Jong D. Kim,Mercy Hospital (Coon Rapids);,34.9,2,2,2 stars
+918,Dr. Vincent Christopher Daniel,The James Cancer Hospital and Solove Research Institute;The Ohio State University Hospital;,34.9,2,2,2 stars
+108,Dr. Paul Michael Mcfadden,Keck Hospital of USC;Huntington Hospital (Pasadena);,35.0,2,1,3 stars
+1027,Dr. Steven W. Marra,Sentara RMH Medical Center;Lexington Medical Center;Mary Washington Hospital;,35.1,2,2,2 stars
+293,Dr. Ronald Smith,Manatee Memorial Hospital;Blake Medical Center;St. Bernards Medical Center;,35.2,2,2,2 stars
+212,Dr. Richard A. Brezing,Northwest Medical Center (Margate);Westside Regional Medical Center;North Shore Medical Center (Fort Lauderdale);,35.2,2,1,3 stars
+750,Dr. John Eugene Langenfeld,Robert Wood Johnson University Hospital;,35.2,2,2,2 stars
+1149,Dr. David A. Fosdick,Texas Health Presbyterian Hospital of Dallas;,35.3,2,2,2 stars
+508,Dr. Tammy Lynn Gleeson,Bronson Battle Creek;Oaklawn Hospital;,35.3,2,2,2 stars
+874,Dr. Mark A. Groh,Mission St. Joseph's Health System;,35.3,2,2,2 stars
+1029,Dr. Alicia Ann Mckelvey,Paoli Hospital;Lankenau Medical Center;,35.4,3,2,2 stars
+948,Dr. Christopher Riordan,The Toledo Hospital;St. Luke's Hospital (Maumee);,35.4,3,3,1 star
+539,Dr. Timothy Michael Anderson,Sturdy Memorial Hospital;MetroWest Medical Center;,35.4,3,3,1 star
+1245,Dr. David W. Frantz,Centra Lynchburg General/Centra Virginia Baptist;,35.4,3,3,1 star
+1217,Dr. Daniel Garber Stroud,Houston Northwest Medical Center;Memorial Hermann;Tomball Regional Medical Center;North Cypress Medical Center;Houston Methodist Willowbrook Hospital;,35.5,3,3,1 star
+1252,Dr. Benjamin D. Kozower,University of Virginia Medical Center;,35.6,3,3,1 star
+1153,Dr. Lawrence R. Hamner,Methodist Hospital (San Antonio);Baptist Health System;CHRISTUS Santa Rosa Hospital;Methodist Stone Oak Hospital;,35.6,3,2,2 stars
+1109,Dr. Anthony J. Palazzo,Johnson City Medical Center;,35.7,3,3,1 star
+503,Dr. Brian Lamar Pettiford,WellSpan York Hospital;,35.7,3,3,1 star
+933,Dr. John M. Miller,Atrium Medical Center;Good Samaritan Hospital (Dayton);Miami Valley Hospital;,35.8,3,2,2 stars
+658,Dr. Ted Hanshus Spooner,Park Nicollet Methodist Hospital;,35.8,3,2,2 stars
+133,Dr. Robert Luther Shuman,Long Beach Memorial Medical Center;,35.9,3,3,1 star
+544,Dr. Neal Chuang,Mercy Medical Center (Springfield);,35.9,3,3,1 star
+518,Dr. Neri M. Cohen,Greater Baltimore Medical Center;St. Agnes Hospital (Baltimore);,35.9,3,3,1 star
+1189,Dr. David O. Moore,The Heart Hospital at Baylor Plano;Medical Center of Plano;Medical City Hospital/Medical City Children's Hospital;,36.0,3,2,2 stars
+2,Dr. Richard Lloyd Clay,Huntsville Hospital;,36.1,3,3,1 star
+306,Dr. Hugh M. Van Gelder,Bayfront Health St. Petersburg;Northside Hospital (St Petersburg);,36.1,3,3,1 star
+1093,Dr. Harvey E. Garrett,Baptist Memorial Hospital;Methodist Healthcare;,36.1,3,1,3 stars
+299,Dr. Rozales Antonio Swanson,St. Mary's of Michigan - Saginaw;Covenant Medical Center (Saginaw);Bayfront Health Port Charlotte;,36.2,3,3,1 star
+995,Dr. Percival Ofrecio Buenaventura,WellSpan York Hospital;,36.3,3,2,2 stars
+854,Dr. David W. Wormuth,St. Joseph's Hospital Health Center;Crouse Hospital;,36.3,3,3,1 star
+819,Dr. Richard S. Lazzaro,Lenox Hill Hospital;New York Methodist Hospital;North Shore University Hospital/Syosset Hospital;,36.3,3,3,1 star
+1054,Dr. E. Myron Barwick,Lexington Medical Center;,36.5,3,2,2 stars
+1070,Dr. Robert H. Messier,Centra Lynchburg General/Centra Virginia Baptist;Grand Strand Medical Center;,36.5,3,3,1 star
+254,Dr. Frederick Byron Liebler,Boca Raton Regional Hospital;,36.7,3,3,1 star
+393,Dr. Anthony John Rousou,Advocate Condell Medical Center;Advocate Good Shepherd Hospital;Advocate Christ Medical Center;Wheaton Franciscan Healthcare All Saints;Palos Community Hospital;Gottlieb Memorial Hospital;,36.7,3,2,2 stars
+211,Dr. Joseph H. Boyer,Florida Hospitals;Florida Hospital Waterman;,37.0,3,3,1 star
+765,Dr. Anthony J. Squillaro,Jersey Shore University Medical Center;Ocean Medical Center;Monmouth Medical Center;Riverview Medical Center;,37.1,3,3,1 star
+1264,Dr. Joseph F. Rowe,Carilion Roanoke Memorial Hospital;,37.2,3,3,1 star
+267,Dr. Mark Alexander Mostovych,St. Vincent's Medical Center Riverside;,37.2,3,3,1 star
+382,Dr. Robert B. Love,Loyola University Medical Center;Froedtert Hospital;,37.2,3,3,1 star
+828,Dr. Roy Georgi Oommen,Hallmark Health System;Signature Healthcare Brockton Hospital;Steward Good Samaritan Medical Center;,37.3,3,3,1 star
+719,Dr. Robert A. Oakes,BryanLGH Medical Center;,37.3,3,2,2 stars
+1147,Dr. Mark Felger,St. David's Medical Center;Seton Medical Center Austin;Seton Medical Center Hays;Shannon Medical Center;St. David's South Austin Medical Center;,37.6,3,3,1 star
+28,Dr. Jasmine L. Huang,St. Joseph's Hospital and Medical Center;,37.6,3,3,1 star
+1152,Dr. Miguel A. Gomez,Houston Methodist West Hospital;Memorial Hermann Memorial City Medical Center;,37.9,3,3,1 star
+1110,Dr. Lawrence J. Pass,TriStar Centennial Medical Center;,37.9,3,3,1 star
+1262,Dr. Jonathan M. Philpott,Sentara Norfolk General Hospital;Sentara Virginia Beach General Hospital;,38.0,3,3,1 star
+26,Dr. Andrew Goldstein,Phoenix Baptist Hospital;Shea Medical Center;Osborn Medical Center;Abrazo West Campus;,38.0,3,2,2 stars
+183,Dr. Daniel S. Fusco,Waterbury Hospital;University of Connecticut Health Center - John Dempsey Hospital;Hartford Hospital;Saint Mary's Hospital;,38.1,3,3,1 star
+467,Dr. Robert T. Fried,King's Daughters Medical Center (Ashland);,38.2,3,3,1 star
+861,Dr. David Lance Carter,Sentara Albemarle Hospital;,38.2,3,2,2 stars
+385,Dr. Dale Mueller,OSF St. Francis Medical Center;UnityPoint Health - Proctor;UnityPoint Health - Methodist;,38.2,3,3,1 star
+1053,Dr. Laurie Beth Reeder,Kent Hospital;,38.3,3,3,1 star
+1165,Dr. Gary Kimble Jett,The Heart Hospital at Baylor Plano;Medical Center of McKinney;Texas Health Presbyterian Hospital of Plano;,38.4,3,3,1 star
+793,Dr. Louis Peter Decunzo,Glens Falls Hospital;,38.4,3,3,1 star
+415,Dr. Douglas L. Gray,Parkview Regional Medical Center;,38.4,3,2,2 stars
+575,Dr. Prodyut K. Poddar,Holy Family Hospital;Hallmark Health System;Lahey Health;North Shore Medical Center (Salem);Anna Jaques Hospital;Winchester Hospital;Lawrence General Hospital;,38.5,3,2,2 stars
+607,Dr. William Henry Gordon,St. Joseph Mercy Oakland;,38.6,3,3,1 star
+333,Dr. Jeremy E. London,St. Joseph's Hospital (Savannah);Memorial Health University Medical Center;,39.0,3,3,1 star
+98,Dr. Tuan T. Lam,Orange Coast Memorial Medical Center;Fountain Valley Regional Hospital;Long Beach Memorial Medical Center;Citrus Valley Medical Center;Garfield Medical Center;,39.2,3,3,1 star
+1231,Dr. David A. Bull,University of Utah Hospital;,39.4,3,2,2 stars
+316,Dr. David V. Capallo,St. Joseph's Hospital (Savannah);,39.4,3,3,1 star
+1200,Dr. Melvin Ray Platt,Texas Health Presbyterian Hospital of Dallas;,39.6,3,3,1 star
+922,Dr. Michael Peter Gibson,St. Elizabeth;,39.8,3,3,1 star
+1207,Dr. Francisco Bernardo Rodriguez,Baptist Health System;Methodist Hospital (San Antonio);Laredo Medical Center;Methodist Stone Oak Hospital;CHRISTUS Santa Rosa Hospital;Nix Medical Center;Doctors Hospital of Laredo;,40.0,3,3,1 star
+169,Dr. Franco R. Rea,Floyd Memorial Hospital;Clark Memorial Hospital;Jewish Hospital/Sts. Mary and Elizabeth Hospital;St. Anthony Hospital (Lakewood);,40.0,3,3,1 star
+1045,Dr. Mathew A. Van Deusen,Allegheny General Hospital;Forbes Hospital;St. Clair Hospital;,40.1,3,3,1 star
+422,Dr. Raja Sekhar Mahidhara,St. Vincent Hospital (Indianapolis);,40.2,3,2,2 stars
+559,Dr. Michael Stephen Kent,Cooper University Hospital;,40.2,3,3,1 star
+83,Dr. Jeffrey August Hagen,Keck Hospital of USC;,40.2,3,2,2 stars
+705,Dr. Stanley Ziomek,Poplar Bluff Regional Medical Center;,40.5,3,1,3 stars
+270,Dr. Jeffrey Howard Newman,Delray Medical Center;,40.5,3,2,2 stars
+495,Dr. Richard M. Dearman,Heart Hospital of Lafayette;Lafayette General Medical Center;Our Lady of Lourdes Regional Medical Center;Terrebonne General Medical Center;,40.6,3,3,1 star
+218,Dr. Roberto De Alba Cervera,Yuma Regional Medical Center;,40.7,3,3,1 star
+353,Dr. Benedict James Winston Taylor,Santa Barbara Cottage Hospital;,40.9,3,1,3 stars
+684,Dr. Alexander Sasha Krupnick,Barnes-Jewish Hospital;,40.9,3,2,2 stars
+748,Dr. Gary Michael Kline,Winthrop University Hospital;Holy Name Medical Center;,41.2,3,2,2 stars
+222,Dr. Fred Michael Crouch,Martin Memorial Medical Center;Citrus Memorial Hospital;Venice Regional Bayfront Health;,41.3,3,3,1 star
+175,Dr. Cristobal G. Alvarado,MaineGeneral Medical Center;MidState Medical Center;,41.4,3,3,1 star
+654,Dr. Christopher W. Seder,Rush University Medical Center;,41.5,3,3,1 star
+1201,Dr. John Mark Pool,Texas Health Presbyterian Hospital of Dallas;,41.8,3,1,3 stars
+587,Dr. Miguel F. Alvelo-Rivera,Karmanos Cancer Center;H. Lee Moffitt Cancer Center and Research Institute;Henry Ford Hospital;,41.9,3,3,1 star
+664,Dr. Gerhard H. Mundinger,St. Dominic-Jackson Memorial Hospital;Central Mississippi Medical Center;River Oaks Hospital;,42.1,3,3,1 star
+470,Dr. Richard J. Heuer,Lake Cumberland Regional Hospital;,42.2,3,3,1 star
+339,Dr. John Everett Moore,Emory St. Joseph's Hospital;Northside Hospital (Atlanta);,42.2,3,3,1 star
+459,Dr. Robert Douglas Adams,Owensboro Health;,42.2,3,3,1 star
+611,Dr. Steven Dale Harrington,Henry Ford Macomb Hospital;Bronson Methodist Hospital;,42.6,3,3,1 star
+1137,Dr. Tung Huu Cai,Denton Regional Medical Center;Texas Health Presbyterian Hospital of Denton;Wise Regional Health System - East Campus;The Heart Hospital at Baylor Plano;Medical Center of Lewisville;Texas Health Harris Methodist Hospital H-E-B;Medical Center of McKinney;,42.8,3,3,1 star
+855,Dr. Jaime Yun,Mount Sinai Beth Israel Medical Center - Petrie Division;Lutheran Medical Center (Brooklyn);Long Island Jewish Medical Center;,43.0,3,3,1 star
+399,Dr. Lambros Tsonis,Elmhurst Memorial Hospital;Loyola University Medical Center;Presence Resurrection Medical Center;Centegra Hospital - McHenry;Community First Medical Center;MacNeal Hospital;,43.1,3,2,2 stars
+294,Dr. Jeffery S. Snyder,North Florida Regional Medical Center;,43.2,3,3,1 star
+501,Dr. Steven C. Howe,Lake Charles Memorial Hospital;CHRISTUS St. Patrick Hosptial;,44.1,3,3,1 star
+955,Dr. Patrick Joseph Stocker,Akron General Medical Center;,44.4,3,3,1 star
+1123,Dr. Bradley A. Wolf,Baptist Memorial Hospital - DeSoto;Baptist Memorial Hospital;Baptist Memorial Hospital - North Mississippi;,44.4,3,1,3 stars
+1020,Dr. Jason J. Lamb,UPMC St. Margaret;,45.2,3,3,1 star
+912,Dr. Narongsak Guevara Boonswang,Easton Hospital;,45.6,3,3,1 star
+1251,Dr. Paul D. Kiernan,Inova Fairfax Hospital;,45.7,3,2,2 stars
+666,Dr. Anthony Bedear Petro,Mississippi Baptist Medical Center;St. Dominic-Jackson Memorial Hospital;,45.7,3,3,1 star
+1275,Dr. Farhood Farjah,University of Washington Medical Center;,45.9,3,3,1 star
+1290,Dr. Ronald R. Quinton,Providence St. Peter Hospital;,46.1,3,2,2 stars
+817,Dr. Rocco J. Lafaro,Westchester Medical Center;,46.8,3,3,1 star
+993,Dr. Omar Awais,UPMC Mercy;,46.8,3,3,1 star
+88,Dr. Mark W. Huang,Sharp Chula Vista Medical Center;Scripps Mercy Hospital;,46.9,3,3,1 star
+19,Dr. Parvez K. Sultan,Trinity Medical Center (Birmingham);St. Vincent's Birmingham;St. Vincent's East;,47.2,3,2,2 stars
+450,Dr. Robert H. Fleming,Kansas Medical Center;Hutchinson Regional Medical Center;Hays Medical Center;Via Christi Hospital;,47.6,3,3,1 star
+310,Dr. Robert L. R. Wesly,North Florida Regional Medical Center;,48.4,3,2,2 stars
+636,Dr. Marc Silver,Genesys Regional Medical Center;,48.8,3,3,1 star
+280,Dr. Narayana Murthy S. Rattehalli,Oak Hill Hospital;Regional Medical Center Bayonet Point;,48.9,3,3,1 star
+492,Dr. Blaine Mcdermott Borders,Glenwood Regional Medical Center;St. Francis Medical Center (Monroe);,49.5,3,3,1 star
+1179,Dr. Ian T. Lyn,The Hospitals of Providence Sierra Campus;Del Sol Medical Center/Las Palmas Medical Center;Providence Memorial Hospital;,49.6,3,3,1 star
+1235,Dr. J. Kent Thorne,St. Mark's Hospital;Timpanogos Regional Hospital;,49.6,3,3,1 star
+661,Dr. Pierre Edouard De Delva,University of Mississippi Medical Center;,49.8,3,3,1 star
+627,Dr. Daniel Richard Meldrum,Spectrum Health;IU Health University Hospital;UF Health Shands Hospital;,50.1,3,3,1 star
+239,Dr. Michael A. Greene,Holmes Regional Medical Center;Sebastian River Medical Center;,50.4,3,3,1 star
+599,Dr. Nestor F. Dans,"Lakeland Regional Medical Center;Osceola Regional Medical Center;CAMC</li> <li class=""checkconfirm"" style=""display:none;""><span>   </span>Ruby Memorial Hospital;Ocala Regional Medical Center/West Marion Community Hospital;",50.8,3,3,1 star
+5,Dr. Michael E. Damrich,Mobile Infirmary Medical Center;Providence Hospital (Mobile);,50.9,3,3,1 star
+283,Dr. Guillermo Sanabria,Wuesthoff Medical Center - Rockledge;,51.4,3,3,1 star
+488,Dr. Sidney Donald Trogdon,St. Elizabeth;St. Elizabeth Florence;,52.7,3,3,1 star
+16,Dr. Lee Douglass Roberson,East Alabama Medical Center;Princeton Baptist Medical Center;,53.8,3,3,1 star
+784,Dr. Igor Brichkov,Maimonides Medical Center;,54.5,3,3,1 star
+200,Dr. Christopher Mark Eger,MedStar Washington Hospital Center;,56.6,3,3,1 star
+994,Dr. David J. Bertsch,Robert Packer Hospital;,57.1,3,1,3 stars
+203,Dr. Kevin D. Accola,Florida Hospitals;,57.9,3,2,2 stars
+206,Dr. Tamim Antaki,Union Hospital (Terre Haute);Terre Haute Regional Hospital;,58.4,3,3,1 star
+236,Dr. Jose F. Font,Palmetto General Hospital;,58.6,3,3,1 star
+227,Dr. Marshall Matthew Desantis,Regional Medical Center Bayonet Point;Oak Hill Hospital;Medical Center of Trinity;,59.0,3,3,1 star
+695,Dr. Clyde R. Redmond,Mercy Hospital Springfield;Saint Francis Hospital (Tulsa);,60.1,3,2,2 stars
+758,Dr. Timothy Scott Pilla,Inspira Medical Center Woodbury;,63.3,3,3,1 star
+42,Dr. Jose E. Torres,Iowa Methodist Medical Center;Iowa Lutheran Hospital;Yavapai Regional Medical Center - West;University of Iowa Hospitals and Clinics;,63.4,3,3,1 star
+226,Dr. Utpal S. Desai,Halifax Health Medical Center;Florida Hospital Ormond Memorial;,64.4,3,3,1 star
+361,Dr. Jeffrey P. Christy,HSHS St. John's Hospital;Memorial Medical Center (Springfield);,65.6,3,3,1 star
+886,Dr. Peter Kane,New Hanover Regional Medical Center;,66.0,3,3,1 star
