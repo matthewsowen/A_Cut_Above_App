@@ -5,7 +5,8 @@ import streamlit as st
 
 '''
 # A Cut Above
-### Finding the Sharpest Surgeon
+### Finding the Sharpest Surgeon  
+
 
 #### Please enter your information to find lung surgeons near you.
 '''
@@ -28,6 +29,8 @@ radius = st.number_input(label = 'Radius (in miles)',
 
 zipdb = ZipCodeDatabase()
 
+
+
 if len(ZIP) == 5:
 
     try:
@@ -35,7 +38,7 @@ if len(ZIP) == 5:
     
     except:
         
-        st.write('That doesn\'t appear to be a valid ZIP code!')
+        st.write('#### That doesn\'t appear to be a valid ZIP code!')
     
     else:
         
@@ -85,22 +88,10 @@ if len(ZIP) == 5:
                              drop = True, inplace = True)
         
         
-        
-        
-        
-        #Local_Docs2 = Local_Docs.replace(to_replace = 
-                                         #{';[A-Za-z0-9-; ]+':''},
-                                         #regex = True)
-            
-        #Local_Docs3 = Local_Docs2.replace(to_replace = 
-                                          #{';':''},
-                                          #regex = True)
     
         if Local_Docs.shape[0] != 0:
             
-            '''
-            #### Here are top the surgeons in your area!
-            '''
+            st.write('#### Here are top the surgeons in your area!')
     
             Local_Docs2 = Local_Docs[['Hospital', 'Rating',
                                   'Average Patient Review']][0:30]
@@ -109,7 +100,10 @@ if len(ZIP) == 5:
             
         else:
             
-            '''
-            #### We couldn\'t find any surgeons. Please try a larger radius.
-            '''
+            st.write('#### We couldn\'t find any surgeons. Please try a larger radius.')
 
+st.write(' ')
+st.write('###### Ratings: 1-3 stars with 3 stars being the best.')
+st.write('###### Patient reviews: 1-5 with 5 being the best.')
+st.write('###### Reviews are aggregated from multiple user review websites.')         
+         
