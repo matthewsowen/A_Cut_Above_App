@@ -91,7 +91,7 @@ if len(ZIP) == 5:
     
         if Local_Docs.shape[0] != 0:
             
-            st.write('#### Here are top the surgeons in your area!')
+            st.write('#### Here are the top surgeons in your area!')
     
             Local_Docs2 = Local_Docs[['Hospital', 'Rating',
                                   'Average Patient Review']][0:30]
@@ -106,4 +106,10 @@ st.write(' ')
 st.write('###### Ratings: 1-3 stars with 3 stars being the best.')
 st.write('###### Patient reviews: 1-5 with 5 being the best.')
 st.write('###### Reviews are aggregated from multiple user review websites.')         
-         
+'''
+###### [Slide Presentation](https://docs.google.com/presentation/d/1xP4tfdr0RjdmtF_eXTgVZrTY3wKdYbAMvidsgyOoYQQ/edit?usp=sharing)
+'''  
+
+st.write('###### [Project](https://github.com/matthewsowen/Insight-A_Cut_Above)')
+
+       
